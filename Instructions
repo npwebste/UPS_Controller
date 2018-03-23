@@ -1,0 +1,3 @@
+
+
+gcc -shared VFD_C.c -o VFD_C.so  $(pkg-config --libs --cflags libmodbus)
