@@ -1,0 +1,18 @@
+# ramp-up: 0: normal, 1: racing, 2: racing + merging nodes
+RampUpPhaseProcess = 2
+
+# has to be FALSE for ramp-up = 0
+RacingStatBranching = FALSE
+# NoPreprocessingInLC = TRUE
+# UseRootNodeCuts = TRUE
+StopRacingNumberOfNodesLeft = 150
+
+# local cuts
+TransferLocalCuts = TRUE
+
+NChangeIntoCollectingModeNSolvers = FALSE
+NChangeIntoCollectingMode = 1
+DualBoundGainTest = FALSE
+
+SolverSettingsAtRootNode = "../settings/ug_scip_stp.set"
+SolverSettingsExceptRootNode = "../settings/ug_scip_stp.set"
