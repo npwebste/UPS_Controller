@@ -15,7 +15,7 @@ class VFD:
 		Write = VFD_C.writeVFDRegister(Address,Data)
 		return Write
 	
-	def VFDRead():
+	def VFDRead(Address):
 		Read = VFD_C.readVFDRegister(Address)
 		return Read
 	

@@ -16,20 +16,24 @@ import VFD_Modbus_Wrapper
 import PWM_Wrapper
 
 # Declare Variables
-
+speed = 
 
 
 # Main UPS Loop
 while True:
 	
 	
-	VFDInit("/dev/ttyUSB0",9600,8,1,1)
+	VFD.VFDInit("/dev/ttyUSB0".encode('ascii'),9600,8,1,1)
 	time.sleep(5)
-	VFDWrite(8192,1)
+	VFD.VFDWrite(8192,1)
 	time.sleep(5)
-	VFDWrite(0269,7680)
+	VFD.VFDWrite(269,7680)
 	time.sleep(5)
-	VFDWrite(8192,3)
+	VFD.VFDWrite(269,3840)
+	time.sleep(5)
+	VFD.VFDWrite(8192,3)
+	time.sleep(5)
+	VFD.VFDRead(269)
 	time.sleep(5)
 	VFDClose()
 	

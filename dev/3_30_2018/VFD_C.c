@@ -14,7 +14,7 @@
 #include "modbus.h"
 
 modbus_t	*ctx;
-uint16_t        *readval;
+uint16_t    *readval;
 
 int     readVFDRegister     (int);
 int		writeVFDRegister	(int, int);
@@ -94,7 +94,7 @@ int readVFDRegister(int addr2)
 	int			rc;
 	const int	nb = 1;
 	
-	uint16_t readval;
+	//uint16_t readval;
 
 	rc = modbus_read_registers(ctx, addr2,nb, readval);
 	
