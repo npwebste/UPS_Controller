@@ -1,8 +1,6 @@
 from ctypes import *
 
-import time
-
-#load the shared object file
+#Load the shared object file
 PWM_C = CDLL('./PWM_C_C.so')
 
 
@@ -26,11 +24,11 @@ class PWM:
 	
 	def PWM_Set_Range(Range):
 		Set_Range = PWM_C.PWM_Set_Range(Range)
-		return
+		return Set_Range
 		
 	def PWM_Write(Pin,Value):
 		PWM_Write = PWM_C.PWM_Write(Pin,Value)
-		return
+		return PWM_Write
 
 
 class VFD:
@@ -50,19 +48,3 @@ class VFD:
 	def VFDClose():
 		Close = VFD_C.VFDClose
 		return Close
-
-
-#Find sum of integers
-res_init = adder.VFDInit("/dev/ttyUSB0",9600,8,1,1)
-res_writ = adder.writeVFDRegister(8192,1)
-time.sleep(5)
-res_writ = adder.writeVFDRegister(0269,7680)
-time.sleep(5)
-res_writ = adder.writeVFDRegister(0269,3840)
-time.sleep(5)
-res_writ = adder.writeVFDRegister(8192,3)
-#res_read = adder.readVFDRegister(15)
-#print "Initialization: " + str(res_init)
-print "Write: " + str(res_writ)
-#print "Read " + str(res_read)
-res_clos = adder.VFDClose()

@@ -49,6 +49,9 @@ def Set_Parameters():
 	Mode = 'PWM_MODE_MS'
 	Divisor = 2
 	Range = 96
+	
+	global D_Min
+	global D_Max
 		
 	
 	
