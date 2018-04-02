@@ -20,6 +20,15 @@ import VFD_Modbus_Registers
 
 # Declare Variables
 
+
+
+############
+# 63 VD+
+# 62 VD-
+# 57 VAC +
+# 58 VAC -
+############
+
 # Main UPS Loop
 while True:
 	
@@ -29,10 +38,6 @@ while True:
 	# Run initializtaion to setup VFD and converter controls
 	Run_Initialization()
 	
-      
-   
-    
-    VFD.VFDClose()
 	# UPS Control Loop
 	while True:
 		

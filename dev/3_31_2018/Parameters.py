@@ -9,7 +9,6 @@
 #
 ######################################################
 
-
 def Set_Parameters():
 	
 	# Water
@@ -19,7 +18,6 @@ def Set_Parameters():
 	# Solar
 	global P_Solar
 	P_Solar = 2500
-	
 	
 	# VFD
 	global Device
@@ -53,7 +51,4 @@ def Set_Parameters():
 	global D_Min
 	global D_Max
 		
-	
-	
-	
 	return 0
