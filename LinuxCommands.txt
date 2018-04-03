@@ -1,3 +1,14 @@
+WiringPi PWM
+
+gcc -Wall -o blink blink.c -lwiringPi
+
+gcc -Wall -o PWM_C.c PWM_C.so -lwiringPi
+
+
+###########################################################################
+Libmodbus Modbus
+
+
 gcc -shared VFD_C.c -o VFD_C.so  $(pkg-config --libs --cflags libmodbus)
 
 

@@ -28,3 +28,7 @@ class PWM:
 	def PWM_Write(Pin,Value):
 		PWM_Write = PWM_C.PWM_Write(Pin,Value)
 		return PWM_Write
+		
+	def Digital_Write(Pin,Value):
+		DigitalWrite = Digital_Write(Pin,Value)
+		return DigitalWrite

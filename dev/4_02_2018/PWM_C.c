@@ -41,6 +41,13 @@ int PWM_Write(int Pin, int Value){
 	printf("Pin = %d, Value = %d",Pin,Value);
 	return PWMWrite;
 }
+
+int Digital_Write(int Pin, int Value){
+	int DigitalWrite;
+	DigitalWrite = digitalWrite(Pin,Value);
+	printf("Pin = %d, Value = %d",Pin,Value);
+	return DigitalWrite;
+}
 /*
 int main (void)
 {

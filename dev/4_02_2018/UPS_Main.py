@@ -41,10 +41,10 @@ while True:
 	# UPS Control Loop
 	while True:
 		
-		TankCheck()
+		#TankCheck()
 		
-		SolarMeasured()
-		 time.sleep(5)
+		#SolarMeasured()
+		#time.sleep(5)
 		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),1)
 		time.sleep(10)
 		t= VFD.VFDRead(269)
@@ -70,7 +70,7 @@ while True:
 			setVFD()
 		'''
 
-		ProtectionCheck()
+		#ProtectionCheck()
 	
 
 ### SQL STUFF
