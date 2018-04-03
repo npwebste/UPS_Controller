@@ -1,13 +1,13 @@
 from ctypes import *
 
 #Load the shared object file
-PWM_C = CDLL('./PWM_C_C.so')
+PWM_C = CDLL('./PWM_C.so')
 
 class PWM:
 	
 	def PWM_Setup():
 		Setup = PWM_C.wiringPiSetup()
-		return
+		return Setup
 	
 	def PWM_Pin_Mode(Pin,Output):
 		Pin_Mode = PWM_C.PWM_Pin_Mode(Pin,Output)

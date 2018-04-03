@@ -10,34 +10,38 @@ int PWM_Setup (void){
 }
 
 int PWM_Pin_Mode(int Pin, char Output){
-	
-	
-	
+	int PinMode;
+	PinMode = pinMode(Pin,Output);
+	printf("Pin = %d, Output = %s \n", Pin, Output);
+	return Pin_Mode;	
 }
 
 int PWM_Set_Mode(char Mode){
-	
-	
-	
+	int SetMode;
+	SetMode = pwmSetMode(Mode);
+    printf("Mode = %s \n",Mode);
+	return SetMode;	
 }
 
 int PWM_Set_Clock(int Divisor){
-	
-	
-	
+	int SetClock;
+	SetClock = pwmSetClock(Divisor);
+	printf("Divisor = %d \n",Divisor);
 }
 
 int PWM_Set_Range(int Range){
-	
-	
-	
+	int SetRange;
+	SetRange = pwmSetRange(Range);
+	printf("Range = %d \n",Range);	
+	return SetRange;
 }
 int PWM_Write(int Pin, int Value){
-	
-	
-	
+	int PWMWrite;
+	PWMWrite = pwmWrite(Pin,Value);
+	printf("Pin = %d, Value = %d",Pin,Value);
+	return PWMWrite;
 }
-
+/*
 int main (void)
 {
 
@@ -52,3 +56,4 @@ int main (void)
   pwmWrite (1,48) ;
     return 0 ;
 }
+*/
