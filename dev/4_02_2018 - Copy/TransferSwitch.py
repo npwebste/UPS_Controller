@@ -14,9 +14,9 @@ import PWM_Wrapper
 # Pin 22 (BCM 25)
 # Ground 20
 
-def Fan_Control(Set_State):
+def Transfer_Switch(Set_State):
 	if Set_State = 1:
-		Digital_Write(17,1)
-	else
-		Digital_Write(17,0)
+		PWM.Digital_Write(25,1)
+	else if Set_State = 0:
+		PWM.Digital_Write(25,0)
 	return 0

@@ -16,11 +16,12 @@ import sqlite3
 #from VFD_Modbus_Wrapper import *
 import VFD_Modbus_Wrapper
 import VFD_Modbus_Registers
-#import PWM_Wrapper
+import PWM_Wrapper
+import TransferSwitch
 
 # Declare Variables
 
-
+#
 
 ############
 # 63 VD+
@@ -41,8 +42,20 @@ while True:
 	# UPS Control Loop
 	while True:
 		
-		#TankCheck()
+		PWM.PWM_Write(Pin,50)
 		
+		time.sleep(5)
+		
+		Transfer_Switch(1)
+		
+		time.sleep(15)
+		
+		Transfer_Switch(0)
+		
+		
+		
+		#TankCheck()
+		'''
 		#SolarMeasured()
 		#time.sleep(5)
 		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),1)
@@ -51,6 +64,7 @@ while True:
 		print('Frequency is',t/100,'Hz')
 		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),3)
 		time.sleep(15)
+		'''
 		'''
 		if P_Solar_Measured > P_Solar_Max*P_Min_Percent:
 			setPWM()

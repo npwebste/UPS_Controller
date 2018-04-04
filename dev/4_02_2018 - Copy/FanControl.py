@@ -16,10 +16,10 @@ import PWM_Wrapper
 # Ground 9
 def Fan_Control(Set_State):
 	if Set_State = 1:
-		Digital_Write(17,1)
-		Digital_Write(27,1)
+		PWM.Digital_Write(17,1)
+		PWM.Digital_Write(27,1)
 	else
-		Digital_Write(17,0)
-		Digital_Write(27,0)
+		PWM.Digital_Write(17,0)
+		PWM.Digital_Write(27,0)
 
 	return 0
