@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-int PWM_Setup (void){
+void PWM_Setup (void){
 	wiringPiSetup()
 	
 }
@@ -13,7 +13,7 @@ int PWM_Pin_Mode(int Pin, char Output){
 	int PinMode;
 	PinMode = pinMode(Pin,Output);
 	printf("Pin = %d, Output = %s \n", Pin, Output);
-	return Pin_Mode;	
+	return PinMode;	
 }
 
 int PWM_Set_Mode(char Mode){
@@ -27,6 +27,7 @@ int PWM_Set_Clock(int Divisor){
 	int SetClock;
 	SetClock = pwmSetClock(Divisor);
 	printf("Divisor = %d \n",Divisor);
+	return SetClock;
 }
 
 int PWM_Set_Range(int Range){
