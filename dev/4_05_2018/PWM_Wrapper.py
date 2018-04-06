@@ -32,3 +32,17 @@ class PWM:
 	def Digital_Write(Pin,Value):
 		DigitalWrite = PWM_C.Digital_Write(Pin,Value)
 		return DigitalWrite
+		
+		
+		'''
+		Rpi base = 19.2 MHz
+		pwmSetClock 2 to 4095
+		pwmSetRange up to 4096
+		
+		Clock = 2
+		Range = 96
+		
+		pwmFrequency = 19.2E6/pwmClock/pwmRange
+		
+		freq = 19.2E6
+		'''

@@ -22,5 +22,5 @@ class VFD:
 		return Close
 	    
 	def SetResponse(sec,usec):
-                SetResp = VFD_C.SetResponseTimeoutVFD(sec,usec)
-                return SetResp
+        SetResp = VFD_C.SetResponseTimeoutVFD(sec,usec)
+        return SetResp
