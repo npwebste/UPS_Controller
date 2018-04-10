@@ -20,6 +20,7 @@ import sqlite3
 #import VFD_Modbus_Registers
 from PWM_Wrapper import *
 from TransferSwitch import *
+from DC_PID import *
 
 
 # Declare Variables
@@ -49,9 +50,9 @@ while True:
 	# UPS Control Loop
 	while True:
 		#48-96
-                # Vo = Vin*(1/(1-D))
-                D = .5
-                Val = 96*D
+		# Vo = Vin*(1/(1-D))
+		D = .5
+		Val = 96*D
 		PWM.PWM_Write(Parameters.Pin,Val)
 		print(Parameters.Pin)
 		time.sleep(5)
@@ -62,7 +63,7 @@ while True:
 		
 		Transfer_Switch(0)
 		
-		
+		DC_PID(.001,0,0,325)
 		
 		#TankCheck()
 		'''

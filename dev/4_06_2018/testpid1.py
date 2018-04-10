@@ -24,8 +24,8 @@ def test_pid(P = 0.1,  I = 0.0, D= 0.0, L=100):
         D += output
         if (D >.9):
             D = .9
-        elif (D < 0):
-            D = 0.01
+        elif (D < .1):
+            D = 0.1
         print('D =',D)
         pid.SetPoint = 350
         time.sleep(0.02)
