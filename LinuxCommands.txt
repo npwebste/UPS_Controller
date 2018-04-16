@@ -1,3 +1,6 @@
+sudo apt-get update
+sudo apt-get dist-upgrade
+
 WiringPi PWM
 
 gcc -Wall -o blink blink.c -lwiringPi

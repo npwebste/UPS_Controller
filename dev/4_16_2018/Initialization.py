@@ -9,7 +9,7 @@
 #
 ######################################################
 import VFD_Modbus_Wrapper
-#import VFD_Modbus_Registers
+import VFD_Modbus_Registers
 from PWM_Wrapper import *
 import Parameters
 
@@ -21,10 +21,9 @@ def Run_Initialization():
 	
 	
 	# VFD
-	#VFD.VFDInit("/dev/ttyUSB0".encode('ascii'),9600,8,1,1)
-	#VFD.VFDInit(Device.encode('ascii'),Baud,Data,Stop,ID)
-	
-	
+	VFD.VFDInit("/dev/ttyUSB0".encode('ascii'),9600,8,1,1)
+	VFD.VFDInit(Device.encode('ascii'),Baud,Data,Stop,ID)
+		
 	PWM.PWM_Setup()
 	PWM.PWM_Pin_Mode(Parameters.Pin)
 	PWM.PWM_Set_Mode()
