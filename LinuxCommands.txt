@@ -1,6 +1,13 @@
 sudo apt-get update
 sudo apt-get dist-upgrade
 
+####
+sudo apt-get install -y autoconf libtool
+git clone https://github.com/stephane/libmodbus/
+cd libmodbus
+./autogen.sh && ./configure –prefix=/usr && make && sudo make install
+############################################################################
+
 WiringPi PWM
 
 gcc -Wall -o blink blink.c -lwiringPi

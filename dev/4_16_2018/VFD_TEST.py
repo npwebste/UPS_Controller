@@ -29,43 +29,9 @@ while True:
 	# UPS Control Loop
 	while True:
 		#time.sleep(5)
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),1)
+		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),1)
 		time.sleep(10)
 		t= VFD.VFDRead(269)
 		print('Frequency is',t/100,'Hz')
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),3)
+		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),3)
 		time.sleep(15)
-		
-		'''
-		if P_Solar_Measured > P_Solar_Max*P_Min_Percent:
-			setPWM()
-			
-			if startVFD() != 0:
-				startVFD()
-		
-			setVFD()
-			
-			
-		else
-			setGrid()
-			
-			if startVFD() != 0:
-				startVFD()
-		
-			setVFD()
-		'''
-
-		#ProtectionCheck()
-	
-
-### SQL STUFF
-#conn = sqlite3.connect('example.db')
-
-#c = conn.cursor()
-
-#c.execute('''CREATE TABLE Power(Date text, Voltage real, Current real, Power real)''')
-
-#c.execute("INSERT INTO Power VALUES('2017',100,25,2500)")
-
-#conn.commit()
-#conn.close()

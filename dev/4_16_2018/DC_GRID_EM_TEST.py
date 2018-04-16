@@ -27,7 +27,9 @@ while True:
 		#48-96
 		# Vo = Vin*(1/(1-D))
 		# Vo = Vin/D
-		D = .6
+		D = input('Enter duty cycle: ')
+		print('Setting duty cycle to: ', D)
+		time.sleep(1)
 		Val = 96*(1-D)
 		PWM.PWM_Write(Parameters.Pin,int(Val))
 		print(Parameters.Pin)

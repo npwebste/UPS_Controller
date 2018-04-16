@@ -1,7 +1,7 @@
 def reg = {
     "WriteFunc":{
         "Frequency_Set":296,
-		"Motor_Start":8192
+		"Motor_Start_Stop":8192
         },
     "ReadFunc":{
         "Output_Frequency":1000,
