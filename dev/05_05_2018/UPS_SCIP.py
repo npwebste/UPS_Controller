@@ -42,15 +42,17 @@ for t in time:
 	h[t] = model.addVar(vtype="C", name="x(%s)"%j, lb=0, ub=hmax)
 	Theta_VFD[t] = model.addVar(vtype="C", name="x(%s)"%j, lb=0, ub=Theta_Max)
 	Vr[t] = model.addVar(vtype="C", name="x(%s)"%j, lb=0, ub=2)
+	
+	Alpha[t] = modle.addVar(vtype="B", name='x (%s)'%j)
 
 # Create Constraints
 
 for t in time:
-	model.addCons(quickSum())
+	model.addCons(quicksum(P_RO[t]=((Alpha[t]*P_In_G[t])+((1-Alpha[t])*P_In_S[t]))))
 
-for j in Blends:
-    x[j] = model.addVar(vtype="C", name="x(%s)"%j)
-
+	
+model.setObjective(quicksum(),"minimize")
+ 
 # Create constraints
 c = {}
 for i in Grapes:
@@ -76,12 +78,11 @@ else:
     print("Problem could not be solved to optimality")
 
 	
-eset;
-# Parameters
-set DATA;
+	
+	
+	
+	
 
-param PV_Forecast    {DATA};
-param Water_Forecast {DATA};
 
 # Objective
 minimize cost : weight1*sum{t in DATA} (((P_RO[t]-P_In_G[t])^2))+weight2*sum{t in DATA} (((P_RO[t]-P_In_S[t])^2))+weight3*sum{t in DATA} (st[t]-sopt)^2 +weight4*sum{t in DATA} ((P_RO[t]/Fp[t]));
