@@ -27,3 +27,22 @@ gcc -shared PWM_C.c -o PWM_C.so -lwiringPi
 
 python3 UPS_Main.py
 
+###########################################################################
+SCIP Optimization Suite 
+
+download zip file
+
+mkdir build
+cmake /home/pi/SCIPOPT
+make
+make check
+make install
+
+PYSCIPOPT
+
+cd /usr/local
+export SCIPOPTDIR=/usr/local
+echo $SCIPOPTDIR
+sudo apt-get install python-dev
+
+sudo pip install pyscipopt
