@@ -8,6 +8,14 @@ The prototype controller was developed as part of the Arizona State Unviersity M
 
 
 The libararies used are the following:
+	SCIP Optimization Suite - Academic License
+
+	Python Libraries
+	PySCIPOpt
+	ivPID
     libmodbus
     wiringpi
+	SQLite
 
+	Externally uses:
+	TI HV_SOLAR_DC_AC_v1.1 Kit Firmware
