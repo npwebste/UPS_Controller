@@ -1,0 +1,25 @@
+Main
+
+Thread1(1 second) - Voltage control
+Py-ADS1256 meausurement
+ivPID control output
+wiringPi PWM output
+
+Thread2(5 second) - VFD Control & Protection functions
+Libmodbus read VFD
+Py-ADS1256 measurement
+Protection script
+Read SCIP setpoints
+Libmodbus write VFD
+
+Thread3(1 minute) - Data logging
+Libmodbus read VFD
+Py-ADS1256 measurement
+SQLite write to database
+Delete Old database
+CSV write to export folders
+
+Thread4(5 minute) - Optimization
+PySCIPOpt run optimization
+
+Thread5(TBD) - USB Monitor

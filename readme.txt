@@ -15,6 +15,7 @@ The libararies used are the following:
 	ivPID
     libmodbus
     wiringpi
+	Py-ads1256
 	SQLite
 
 	Externally uses:

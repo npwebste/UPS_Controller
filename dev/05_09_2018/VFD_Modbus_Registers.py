@@ -1,6 +1,9 @@
 reg = {
     "WriteFunc":{
         "Frequency_Set":269,
+		"Frequency_Max":267,
+		"Frequency_Min":268,
+		"Frequency_Acc":270,
         "Motor_Start_Stop":8192
         },
     "ReadFunc":{
