@@ -8,27 +8,16 @@
 # 1.00 03_24_2018_NW
 #
 ######################################################
+# Import Libraries
+import ads1256
+import PID
+import wiring
+from PWM_Voltage_Measure import *
 
+def PWM_Controller():
 
-def Error_Code():
-	
-	# VFD
-	global Device
-	global Baud
-	global Parity
-	global Data
-	global Stop
-	global ID
-	
-	Device = "/dev/ttyUSB0"
-	Baud = 9600
-	Parity = "N"
-	Data = 8
-	Stop = 1
-	ID = 1
-	
-	
-	
-	
-	
-	return
+	DC_Volts = PWM_Voltage_Measure(DC_Link)
+
+	D_PID = PWM_PID(DC_Volts)
+
+	PWM_Output(D_PID)

@@ -10,52 +10,47 @@
 ######################################################
 # Import Libraries
 import Parameters
+import time
 
 from VFD_Modbus_Wrapper import *
 from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
 from TransferSwitch import *
 
-def VFD_Controller(Solar_Power):
-	file
-	
+def VFD_Controller(SCIP_Power,SCIP_Freq):
+	# Measure Solar voltage
 
+    # Measure solar current
 
+    # Calculate solar power
 
-
-
-# Main UPS Loop
-while True:
-	
-	# Set parametersrameters and declare variables
-	# Run initializtaion to setup VFD and converter controls
-	Run_Initialization()
-
-	# UPS Control Loop
-	while True:
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),1)
-		time.sleep(7)
-		
-		Freq = input('Enter frequency setpoint: ')
-		print('Setting frequency to: ', int(float(Freq)*100))
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),int(float(Freq)*100))
-		time.sleep(7)	
-		
-		t= VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Frequency"))
-		print('Frequency is',t/100,'Hz')
-		
-		t1 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Voltage"))
-		print('Voltage is',t1,'V')
-		
-		t2 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Current"))
-		print('Current is',t2/100,'A')
-		
-		t3 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Power"))
-		print('Power is',t3/10,'W')
-		
-		t4 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Bus_Voltage"))
-		print('Bus Voltage is',t4,'V')
-		time.sleep(10)
-		
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),3)
-		time.sleep(15)
+    if (P_Solar > 500):
+        Transfer_Switch(0)
+        time.sleep(1)
+        if (P_Solar >= SCIP_Power):
+            P_VFD = SCIP_Power
+        else:
+            P_VFD = P_Solar
+        if ((P_VFD/Parameters.P_Solar_Max)*Parameters.Theta_Max)<=SCIP_Freq:
+            Freq_VFD = ((P_VFD/Parameters.P_Solar_Max)*Parameters.Theta_Max)
+        else:
+            Freq_VFD = SCIP_Freq
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
+        sleep.time(2)
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), Freq_VFD*100)
+    elif (P_Solar <= 500):
+        TransferSwitch(1)
+        time.sleep(5)
+        if (P_Solar >= SCIP_Power):
+            P_VFD = SCIP_Power
+        else:
+            P_VFD = P_Solar
+        if ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max) <= SCIP_Freq:
+            Freq_VFD = ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max)
+        else:
+            Freq_VFD = SCIP_Freq
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
+        sleep.time(2)
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), Freq_VFD * 100)
+    else:
+        UPS_Error('Error_VFD_Power')

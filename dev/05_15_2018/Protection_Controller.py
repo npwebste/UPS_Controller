@@ -10,55 +10,50 @@
 ######################################################
 # Import Libraries
 import Parameters
-from Initialization import *
 import time
-import sqlite3
 from VFD_Modbus_Wrapper import *
 from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
-from TransferSwitch import *
-
-
-
+from PWM_Measure_Voltage import *
+from UPS_Error import *
 
 def Protection_Controller():
-	# Check DC protection
-	
-	
-	# Check 
+    # Check Solar setpoints
+    Solar_Voltage = PWM_Measure_Voltage('Solar')
+    DC_Link_Voltage = PWM_Measure_Voltage('DC_Link')
+    if (Solar_Voltage >=350):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        PWM_Output(Parameters.PWMPin,0)
+        UPS_Error('Error_Solar_Voltage')
+    if (DC_Link_Voltage >= 350):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        PWM_Output(Parameters.PWMPin, 0)
+        UPS_Error('Error_DC_Link_Voltage')
+    # Check Grid setpoints
 
-# Main UPS Loop
-while True:
-	
-	# Set parametersrameters and declare variables
-	# Run initializtaion to setup VFD and converter controls
-	Run_Initialization()
+    # Check VFD setpoint
+    VFD_Freq = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Frequency"))/100
+    VFD_Volt = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Voltage"))
+    VFD_Amps = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Current"))/100
+    VFD_Power =VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Power"))/10
+    VFD_BusVolt = VFD.VFDRead(reg.get("ReadFunc",{}).get("Bus_Voltage"))
+    VFD_Temp = VFD.VFDRead(reg.get("ReadFunc",{}).get("Temperature"))
 
-	# UPS Control Loop
-	while True:
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),1)
-		time.sleep(7)
-		
-		Freq = input('Enter frequency setpoint: ')
-		print('Setting frequency to: ', int(float(Freq)*100))
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Frequency_Set"),int(float(Freq)*100))
-		time.sleep(7)	
-		
-		t= VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Frequency"))
-		print('Frequency is',t/100,'Hz')
-		
-		t1 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Voltage"))
-		print('Voltage is',t1,'V')
-		
-		t2 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Current"))
-		print('Current is',t2/100,'A')
-		
-		t3 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Output_Power"))
-		print('Power is',t3/10,'W')
-		
-		t4 = VFD.VFDRead(reg.get("ReadFunc",{}).get("Bus_Voltage"))
-		print('Bus Voltage is',t4,'V')
-		time.sleep(10)
-		
-		VFD.VFDWrite(reg.get("WriteFunc",{}).get("Motor_Start_Stop"),3)
-		time.sleep(15)
+    if (VFD_Freq >=61):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        UPS_Error('Error_VFD_Freq')
+    if (VFD_Volt >=240):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        UPS_Error('Error_VFD_Volt')
+    if (VFD_Amps >=10):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        UPS_Error('Error_VFD_Amps')
+    if (VFD_Power >=2000):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        UPS_Error('Error_VFD_Power')
+    if (VFD_BusVolt >=400):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3
+        UPS_Error('Error_VFD_BusVolt')
+    if (VFD_Temp >=40):
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
+        UPS_Error('Error_VFD_Temp')

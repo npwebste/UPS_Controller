@@ -12,9 +12,13 @@
 global P_Min_Percent
 P_Min_Percent = .5
 
+global Theta_Max
+Theta_Max = 60
+
 # Solar
 global P_Solar
-P_Solar = 2500
+
+P_Solar_Max = 1800
 
 # VFD
 global Device
@@ -39,7 +43,8 @@ global Divisor
 global Range
 global PWM_Value
 
-Pin = 1
+PWMPin = 1
+DigitalPin = 5
 Output = 'PWM_OUTPUT'
 Mode = 'PWM_MODE_MS'
 Divisor = 2
@@ -51,3 +56,14 @@ global D_Max
 global Duty
 
 Duty = .5
+
+# PID
+global P
+global I
+global D
+global Voltage_Setpoint
+
+P = .1
+I = 0
+D = 0
+Voltage_Setpoint = 325.3

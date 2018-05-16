@@ -11,6 +11,7 @@
 from VFD_Modbus_Wrapper import *
 from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
+import sqlite3
 import Parameters
 #USB0
 def Run_Initialization():
@@ -23,11 +24,15 @@ def Run_Initialization():
 	# VFD
 	#VFD.VFDInit("/dev/ttyAMA0".encode('ascii'),9600,8,1,1)
 	VFD.VFDInit(Parameters.Device.encode('ascii'),Parameters.Baud,Parameters.Data,Parameters.Stop,Parameters.ID)
-		
+
+	# PWM
 	PWM.PWM_Setup()
 	PWM.PWM_Pin_Mode(Parameters.Pin)
 	PWM.PWM_Set_Mode()
 	PWM.PWM_Set_Clock(Parameters.Divisor)
 	PWM.Pin_Mode_Output(6)
 	PWM.PWM_Set_Range(Parameters.Range)
-	
+
+	conn = sqlite3.connect('UPS_DB.db')
+	c = conn.cursor()
+	c.execute('''CREATE TABLE UPS_DB(Date text, Voltage real, Current real, Power real)'''
