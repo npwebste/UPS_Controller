@@ -29,7 +29,7 @@ def SQL_Database(Solar_Power):
     conn = sqlite3.connect('UPS_DB.db')
     c = conn.cursor()
 
-    c.execute("INSERT INTO Power VALUES('2017',100,25,2500)")
+    c.execute("INSERT INTO UPS_DB VALUES(Solar_Voltage,DC_Link_Voltage,VFD_Freq,VFD_Volt,VFD_Volt,VFD_Amps,VFD_Power,VFD_BusVolt,VFD_Temp)")
 
     conn.commit()
 

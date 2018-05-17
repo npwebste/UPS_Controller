@@ -1,6 +1,11 @@
 sudo apt-get update
 sudo apt-get dist-upgrade
 
+
+sudo pip3 install wiringpi
+sudo pip3 install ivpid
+
+
 ####
 sudo apt-get install -y autoconf libtool
 git clone https://github.com/stephane/libmodbus/
@@ -10,15 +15,11 @@ cd libmodbus
 
 WiringPi PWM
 
-gcc -Wall -o blink blink.c -lwiringPi
-
 gcc -Wall -o PWM_C.c PWM_C.so -lwiringPi
 
 
 ###########################################################################
 Libmodbus Modbus
-
-
 
 gcc -shared VFD_C.c -o VFD_C.so $(pkg-config --libs --cflags libmodbus)
 
@@ -45,4 +46,24 @@ export SCIPOPTDIR=/usr/local
 echo $SCIPOPTDIR
 sudo apt-get install python-dev
 
-sudo pip install pyscipopt
+sudo pip3 install pyscipopt
+
+
+###########################################################################
+py-ads1256
+
+sudo apt-get install automake libtool
+wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.50.tar.gz
+tar zxvf bcm2835-1.50.tar.gz 
+cd bcm2835-1.50
+autoreconf -vfi
+./configure
+make
+sudo make check
+sudo make install
+
+sudo apt-get install git build-essential python-dev
+cd ~
+git clone https://github.com/fabiovix/py-ads1256.git
+cd py-ads1256
+sudo python3 setup.py install

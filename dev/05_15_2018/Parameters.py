@@ -15,6 +15,12 @@ P_Min_Percent = .5
 global Theta_Max
 Theta_Max = 60
 
+global DCLinkMax
+global SolarMax
+DCLinkMax = 350
+SolarMax = 275
+
+
 # Solar
 global P_Solar
 

@@ -21,11 +21,11 @@ def Protection_Controller():
     # Check Solar setpoints
     Solar_Voltage = PWM_Measure_Voltage('Solar')
     DC_Link_Voltage = PWM_Measure_Voltage('DC_Link')
-    if (Solar_Voltage >=350):
+    if (Solar_Voltage >=Parameters.SolarMax):
         VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
         PWM_Output(Parameters.PWMPin,0)
         UPS_Error('Error_Solar_Voltage')
-    if (DC_Link_Voltage >= 350):
+    if (DC_Link_Voltage >= Parameters.DCLinkMax):
         VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
         PWM_Output(Parameters.PWMPin, 0)
         UPS_Error('Error_DC_Link_Voltage')

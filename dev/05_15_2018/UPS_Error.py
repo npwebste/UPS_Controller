@@ -33,6 +33,7 @@ def UPS_Error(ErrorCode):
         print('Incorrect transfer switch input')
     elif ErrorCode == 'Error_VFD_Power':
         print('Incorrect power calculation')
-
+    elif ErrorCode == 'Error_Duty_Cycle':
+        print('Incorrect power calculation')
 
     return

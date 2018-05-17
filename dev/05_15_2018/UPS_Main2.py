@@ -22,11 +22,9 @@ SCIP_Power = 0
 s = sched.scheduler(time.time, time.sleep)
 # Main UPS Loop
 while True:
-
-    # Set parametersrameters and declare variables
-
     # Run initializtaion to setup VFD and converter controls
     Run_Initialization()
+
     # UPS Control Loop
     while True:
         PWM_Thread(s, 1, PWM_Controller, ())

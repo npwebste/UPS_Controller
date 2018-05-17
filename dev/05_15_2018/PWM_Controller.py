@@ -9,10 +9,8 @@
 #
 ######################################################
 # Import Libraries
-import ads1256
-import PID
-import wiring
 from PWM_Voltage_Measure import *
+from PWM_PID import *
 
 def PWM_Controller():
 

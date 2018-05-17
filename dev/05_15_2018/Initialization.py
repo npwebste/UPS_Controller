@@ -35,4 +35,6 @@ def Run_Initialization():
 
 	conn = sqlite3.connect('UPS_DB.db')
 	c = conn.cursor()
-	c.execute('''CREATE TABLE UPS_DB(Date text, Voltage real, Current real, Power real)'''
+	c.execute('''CREATE TABLE UPS_DB(Date text,Solar_Voltage real, DC_Link_Voltage real, VFD_Freq real, VFD_Volt real, VFD_Amps real, VFD_Power real, VFD_BusVolt real, VFD_Temp real)''')
+	conn.commit()
+	conn.close()
