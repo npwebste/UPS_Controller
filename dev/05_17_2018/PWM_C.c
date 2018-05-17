@@ -1,4 +1,5 @@
 #include <wiringPi.h>
+#include <wiringPiSPI.h>
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -44,6 +45,16 @@ void PWM_Write(int Pin, int Value){
 void Digital_Write(int Pin, int Value){
 	digitalWrite(Pin,Value);
 	printf("Pin = %d, Value = %d",Pin,Value);
+}
+
+void SPI_Setup(int Channel, int Speed){
+	wiringPiSPISetup(Channel, Speed)
+	printf("Channel = %d, Speed = %d",Channel,Speed);
+}
+
+void SPI_RW(){
+	wiringPiSPIDataRW
+	printf("Channel = %d, Speed = %d",Channel,Speed);
 }
 /*
 int main (void)
