@@ -20,17 +20,18 @@ from Initialization import *
 # Declare Variables
 SCIP_VFD = 0
 SCIP_Power = 0
+temp = .5
 s = sched.scheduler(time.time, time.sleep)
 # Main UPS Loop
 while True:
     # Run initializtaion to setup VFD and converter controls
     
-    print("Beginning controllier initilization")
+    print("Beginning controller initilization")
     Run_Initialization()
     print("Initialization complete")
      # UPS Control Loop
     while True:
-        PWM_Thread(s, 1, PWM_Controller, ())
+        temp = PWM_Thread(s, 1, PWM_Controller, temp)
         #print("Hey i got here",t)
 
         Protection_Thread(s, 5, Protection_Controller, ())
