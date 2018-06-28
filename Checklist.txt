@@ -1,0 +1,11 @@
+1)Install wiringpi2 
+
+2)Install libmodbus
+
+3)Install SCIP
+
+4)Create Datalogger directory and copy files into
+
+5)Modify /boot/config.txt for HDMI scren
+
+6)
