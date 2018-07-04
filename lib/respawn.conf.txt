@@ -1,0 +1,3 @@
+chdir /home/pi/UPS
+exec python3 UPS_Main.py
+respawn

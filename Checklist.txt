@@ -8,4 +8,6 @@
 
 5)Modify /boot/config.txt for HDMI scren
 
-6)
+6)Modify /etc/rc.local for script auto loading
+
+7)Add /etc/init/respawn.conf
