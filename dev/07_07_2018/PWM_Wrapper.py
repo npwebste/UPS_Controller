@@ -18,7 +18,7 @@ class PWM:
 	
 	def PWM_Setup():
 		Setup = PWM_C.wiringPiSetup()
-		#return Setup
+		return Setup
 	
 	def PWM_Pin_Mode(Pin):
 		Pin_Mode = PWM_C.PWM_Pin_Mode(Pin)

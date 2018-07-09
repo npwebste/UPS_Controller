@@ -54,6 +54,10 @@ def UPS_Error(ErrorCode):
         print('Invalid transfer switch command')
         logger.warn('Invalid transfer switch command')
 
+    elif ErrorCode == 'Error_DC_Relay':
+        print('Invalid DC relay command')
+        logger.warn('Invalid DC relay command')
+
     elif ErrorCode == 'Error_VFD_Power':
         print('Invalid power value calculated')
         logger.warn('Invalid power value calculated')
@@ -62,11 +66,15 @@ def UPS_Error(ErrorCode):
         print('Invalid duty cycle value calculated')
         logger.warn('Invalid duty cycle value calculated')
 
+    elif ErrorCode == 'Error_Solar_Voltage_Relay':
+        print('Solar voltage out of accecptable range, cannot turn on solar relay')
+        logger.warn('Solar voltage out of accecptable range, cannot turn on solar relay')
+
     logging.shutdown()
 
 # Logger function for writing messages to error log file
 def function_logger(file_level):
-    function_name = inspect.stack()[1][3]
+    function_name = inspect.stack()
     logger = logging.getLogger(function_name)
     logger.setLevel(logging.DEBUG) #By default, logs all messages
 

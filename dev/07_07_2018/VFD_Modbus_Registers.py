@@ -9,6 +9,7 @@
 #
 ######################################################
 
+# VFD register values for reading and writing
 reg = {
     "WriteFunc":{
         "Frequency_Set":269,

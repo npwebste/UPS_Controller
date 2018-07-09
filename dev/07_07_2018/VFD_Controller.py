@@ -15,7 +15,7 @@ import time
 from VFD_Modbus_Wrapper import *
 from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
-from TransferSwitch import *
+from Relay_Controller import *
 
 SCIP_Power = 0
 SCIP_Freq = 0

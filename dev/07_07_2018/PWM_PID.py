@@ -18,16 +18,18 @@ DC_PID.setSampleTime(Parameters.PID_Time)
 DC_PID.SetPoint = Parameters.Voltage_Setpoint
 
 def PWM_PID(DC_Voltage,D_PID_OLD):
-    DC_PID.update(DC_Voltage)
-    D_update = DC_PID.output
-    D = D_PID_OLD-D_update
-    if D > .9:
-        D_out = .9
-    elif D<.7:
-        D_out = .7
-    elif D<=.8 and D>=.7:
+    DC_PID.update(DC_Voltage) # Run the PID update function
+    D_update = DC_PID.output # Get the updated PID duty cycle value
+    D = D_PID_OLD-D_update # Calculate the change in the duty cycle
+
+    # Duty cycle protection statement to ensure acceptable operating range
+    if D > Parameters.D_Max:
+        D_out = Parameters.D_Max
+    elif D < Parameters.D_Min:
+        D_out = Parameters.D_Min
+    elif D <= Parameters.D_Max and D >= Parameters.D_Min:
         D_out = D
     else:
         UPS_Error('Error_Duty_Cycle')
-        D_out = .5
+        D_out = Parameters.PID_OLD_INIT # Reset duty cycle to default initial value
     return D_out

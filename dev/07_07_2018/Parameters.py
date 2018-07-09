@@ -23,12 +23,16 @@ P_Solar_Max = 1800
 
 # Voltage Control
 global DCLink_VDC_Max
+global DCLink_VDC_Min
 global Solar_VDC_Max
+global Solar_VDC_Min
 global Voltage_Multiplier
 global D_Min
 global D_Max
-DCLinkMax = 350
-SolarMax = 275
+DCLink_VDC_Max = 350
+DCLink_VDC_Min = 300
+Solar_VDC_Max = 275
+Solar_VDC_Min = 175
 Voltage_Multiplier = .003330781
 D_Min = .5
 D_Max = .9
@@ -46,6 +50,24 @@ Parity = "N"
 Data = 8
 Stop = 1
 ID = 1
+
+
+global VFD_Freq_Init
+global VFD_Acc_Rate
+global VFD_Freq_Max
+global VFD_Volt_Max
+global VFD_Amps_Max
+global VFD_Power_Max
+global VFD_BusVolt_Max
+global VFD_Temp_Max
+VFD_Freq_Init = 10
+VFD_Acc_Rate = 1
+VFD_Freq_Max = 61
+VFD_Volt_Max = 240
+VFD_Amps_Max = 15
+VFD_Power_Max = 1800
+VFD_BusVolt_Max = 400
+VFD_Temp_Max = 40
 
 # PWM
 global PWMPin

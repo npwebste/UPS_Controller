@@ -21,9 +21,13 @@ def Run_Initialization():
 
     # Solar
 
+    PWM.PWM_Write(Parameters.PWMPin, Parameters.PID_OLD_INIT*Parameters.Range)
+
     # VFD Connection Initialization
     # VFD.VFDInit("/dev/ttyAMA0".encode('ascii'),9600,8,1,1)
     VFD.VFDInit(Parameters.Device.encode('ascii'),Parameters.Baud,Parameters.Data,Parameters.Stop,Parameters.ID)
+    VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"),Parameters.VFD_Freq_Init) # Set initial frequency
+    VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Acc"),Parameters.VFD_Acc_Rate )  # Set acceleration rate
 
     # PWM Setup
     PWM.PWM_Setup()
