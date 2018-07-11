@@ -15,7 +15,7 @@ from PWM_Measure_Voltage import *
 from PWM_PID import *
 from PWM_Wrapper import *
 from Relay_Controller import *
-from UPS_Error import *
+from UPS_Messages import *
 
 # Define initial duty cycle value
 D_PID_OLD = Parameters.PID_OLD_INIT
@@ -48,7 +48,7 @@ def PWM_Controller(arg):
         DC_Relay(1) # Set solar relay to closed position
         time.sleep(5) # Wait 5 seconds
     else:
-        UPS_Error('Error_Solar_Voltage_Relay')
+        UPS_Messages('Error_Solar_Voltage_Relay')
 
     # Calculate the updated DC-DC converter duty cycle
     D_PID = PWM_PID(DC_Link_Actual_Volts,D_PID_OLD)

@@ -13,6 +13,7 @@ from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
 from ADS1256_definitions import *
 from pipyadc import ADS1256
+from UPS_Messages import *
 import sqlite3
 import Parameters
 
@@ -48,9 +49,10 @@ def Run_Initialization():
         c = conn.cursor()
         c.execute('''CREATE TABLE UPS_DB(Date text,Solar_Voltage real, DC_Link_Voltage real, VFD_Freq real, VFD_Volt real, VFD_Amps real, VFD_Power real, VFD_BusVolt real, VFD_Temp real)''')
         conn.commit()
+        UPS_Messages('SQL Database Created')
     except:
         conn.rollback()
-        print("Database already created")
+        UPS_Messages('SQL Database Already Created')
     finally:
         conn.close()
-        print("Database connection closed")
+        UPS_Messages('SQL Database Closed')

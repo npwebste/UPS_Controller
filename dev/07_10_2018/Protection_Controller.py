@@ -17,7 +17,7 @@ from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
 from PWM_Measure_Voltage import *
 from Relay_Controller import *
-from UPS_Error import *
+from UPS_Messages import *
 
 # Setup protection scheduler
 Protection_Sched = sched.scheduler(time.time,time.sleep)
@@ -42,15 +42,15 @@ def Protection_Controller(arg):
         VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3) # Stop motor
         Transfer_Switch(0) # Switch to grid source
         PWM.PWM_Write(Parameters.PWMPin,int(Parameters.PID_OLD_INIT*Parameters.Range)) # Reset PWM duty cycle to initial value
-        DC_Relay(0)  # Set solar relay to open
-        UPS_Error('Error_Solar_Voltage')
+        DC_Relay(0) # Set solar relay to open
+        UPS_Messages('Error_Solar_Voltage')
 
     if (DC_Link_Voltage >= Parameters.DCLink_VDC_Max or DC_Link_Voltage <= Parameters.DCLink_VDC_Min):
         VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3) # Stop motor
         Transfer_Switch(0)  # Switch to grid source
         PWM.PWM_Write(Parameters.PWMPin,int(Parameters.PID_OLD_INIT*Parameters.Range)) # Reset PWM duty cycle to initial value
-        DC_Relay(0)  # Set solar relay to open position
-        UPS_Error('Error_DC_Link_Voltage')
+        DC_Relay(0) # Set solar relay to open position
+        UPS_Messages('Error_DC_Link_Voltage')
 
     # Check Grid
 

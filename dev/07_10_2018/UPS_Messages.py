@@ -15,68 +15,81 @@ import sys
 #logger = function_logger(logging.DEBUG)
 
 # Function for printing errors messages and calling logger ]
-def UPS_Error(ErrorCode):
+def UPS_Messages(MessageCode):
     global logger
     logger = function_logger(logging.DEBUG)
-    if (ErrorCode == 'Error_VFD_Freq'):
+    if (MessageCode == 'Error_VFD_Freq'):
         print('VFD frequency set above maximum, shutting down motor')
         logger.warn('VFD frequency set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_VFD_Volt':
+    elif MessageCode == 'Error_VFD_Volt':
         print('VFD votlage set above maximum, shutting down motor')
         logger.warn('VFD votlage set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_VFD_Amps':
+    elif MessageCode == 'Error_VFD_Amps':
         print('VFD current set above maximum, shutting down motor')
         logger.warn('VFD current set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_VFD_Power':
+    elif MessageCode == 'Error_VFD_Power':
         print('VFD power set above maximum, shutting down motor')
         logger.warn('VFD power set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_VFD_BusVolt':
+    elif MessageCode == 'Error_VFD_BusVolt':
         print('VFD bus voltage set above maximum, shutting down motor')
         logger.warn('VFD bus voltage set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_VFD_Temp':
+    elif MessageCode == 'Error_VFD_Temp':
         print('VFD temperature set above maximum, shutting down motor')
         logger.warn('VFD temperature set above maximum, shutting down motor')
 
-    elif ErrorCode == 'Error_Solar_Voltage':
+    elif MessageCode == 'Error_Solar_Voltage':
         print('Solar voltage set above maximum, shutting down motor and opening solar relay')
         logger.warn('Solar voltage set above maximum, shutting down motor and opening solar relay')
 
-    elif ErrorCode == 'Error_DC_Link_Voltage':
+    elif MessageCode == 'Error_DC_Link_Voltage':
         print('DC link voltage set above maximum, shutting down motor and opening solar relay')
         logger.warn('DC link voltage set above maximum, shutting down motor and opening solar relay')
 
-    elif ErrorCode == 'Error_Voltage_Measurement':
+    elif MessageCode == 'Error_Voltage_Measurement':
         print('Error reading voltage measurement')
         logger.warn('Error reading voltage measurement')
 
-    elif ErrorCode == 'Error_Transfer_Switch':
+    elif MessageCode == 'Error_Transfer_Switch':
         print('Invalid transfer switch command')
         logger.warn('Invalid transfer switch command')
 
-    elif ErrorCode == 'Error_DC_Relay':
+    elif MessageCode == 'Error_DC_Relay':
         print('Invalid DC relay command')
         logger.warn('Invalid DC relay command')
 
-    elif ErrorCode == 'Error_VFD_Power':
+    elif MessageCode == 'Error_VFD_Power':
         print('Invalid power value calculated')
         logger.warn('Invalid power value calculated')
 
-    elif ErrorCode == 'Error_Duty_Cycle':
+    elif MessageCode == 'Error_Duty_Cycle':
         print('Invalid duty cycle value calculated')
         logger.warn('Invalid duty cycle value calculated')
 
-    elif ErrorCode == 'Error_Solar_Voltage_Relay':
+    elif MessageCode == 'Error_Solar_Voltage_Relay':
         print('Solar voltage out of accecptable range, cannot turn on solar relay')
         logger.warn('Solar voltage out of accecptable range, cannot turn on solar relay')
 
-    elif ErrorCode == 'Error Archive':
+    elif MessageCode == 'Error Archive':
         print('Could not archive database')
         logger.warn('Could not archive database')
+
+    elif MessageCode == 'Error Archive Delete':
+        print('Could not update SQL or delete CSV and log file')
+        logger.warn('Could not update SQL or delete CSV and log file')
+
+    elif MessageCode == 'Error SQL Connection':
+        print('Could not connect to SQL database')
+        logger.warn('Could not connect to SQL database')
+
+    elif MessageCode == 'Error SQL Create':
+        print('Could not creat SQL database')
+        logger.warn('Could not connect to SQL database')
+
     #print(logger)
     #logging.Handler.close(self)
     logging.shutdown()

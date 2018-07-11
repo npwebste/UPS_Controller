@@ -12,15 +12,15 @@
 import Parameters
 import sched
 import time
+import SCIP_Controller
 from VFD_Modbus_Wrapper import *
 from VFD_Modbus_Registers import *
 from PWM_Wrapper import *
 from Relay_Controller import *
-import SCIP_Controller
+from UPS_Messages import *
 
 SCIP_Power = 0
 SCIP_Freq = 0
-
 
 def VFD_Controller_Main(arg):
 
@@ -74,4 +74,4 @@ def VFD_Controller(arg):
         time.sleep(2)
         VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD*100))
     else:
-        UPS_Error('Error_VFD_Power')
+        UPS_Messages('Error_VFD_Power')

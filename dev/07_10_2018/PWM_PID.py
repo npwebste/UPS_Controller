@@ -11,7 +11,7 @@
 # Import Libraries
 import PID
 import Parameters
-from UPS_Error import *
+from UPS_Messages import *
 
 DC_PID = PID.PID(Parameters.P, Parameters.I, Parameters.D)
 DC_PID.setSampleTime(Parameters.PID_Time)
@@ -30,6 +30,6 @@ def PWM_PID(DC_Voltage,D_PID_OLD):
     elif D <= Parameters.D_Max and D >= Parameters.D_Min:
         D_out = D
     else:
-        UPS_Error('Error_Duty_Cycle')
+        UPS_Messages('Error_Duty_Cycle')
         D_out = Parameters.PID_OLD_INIT # Reset duty cycle to default initial value
     return D_out

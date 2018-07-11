@@ -19,6 +19,7 @@ from VFD_Modbus_Registers import *
 from PWM_Measure_Voltage import *
 from PWM_Wrapper import *
 from Relay_Controller import *
+from UPS_Messages import *
 
 def SQL_Database_Controller_Main(arg):
 
@@ -46,8 +47,7 @@ def SQL_Database_Controller(arg):
         c.execute("INSERT INTO UPS_DB(Date,Solar_Voltage, DC_Link_Voltage, VFD_Freq, VFD_Volt, VFD_Amps, VFD_Power, VFD_BusVolt, VFD_Temp) VALUES(?,?,?,?,?,?,?,?,?)",(Currenttime, Solar_Voltage,DC_Link_Voltage,VFD_Freq,VFD_Volt,VFD_Amps,VFD_Power,VFD_BusVolt,VFD_Temp))
         conn.commit()
 
-    except Exception as e:
+    except:
         conn.rollback()
-        print("SQL write failed")
-        raise e
+        UPS_Messages('Error SQL Connection')
     conn.close()

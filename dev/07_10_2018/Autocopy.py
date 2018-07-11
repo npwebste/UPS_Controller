@@ -14,24 +14,13 @@ import shutil
 import datetime
 import csv
 import os
-from UPS_Error import *
+from CSV_Manager import *
+from UPS_Messages import *
 cwd = os.getcwd()
 
 print(cwd)
 
-try:
-	conn = sqlite3.connect('UPS_DB.db')
-	c = conn.cursor()
-	csvdata = c.execute("SELECT * from UPS_DB")
-	conn.close()
-except:
-	UPS_Error('Autocopy Error')
-
-with open('UPS_CSV.csv', 'w') as csvfile:
-	writer = csv.writer(csvfile)
-	writer.writerow(['Column1','Column2','Column3','Column4','Column5','Column6','Column7','Column8','Column9'])
-	writer.writerows(csvdata)
-csvfile.close()
+CSV_Write()
 
 source = "/home/pi/datalogger/UPS_CSV.csv"
 

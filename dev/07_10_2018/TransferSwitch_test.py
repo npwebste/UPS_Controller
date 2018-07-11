@@ -9,8 +9,10 @@
 #
 ######################################################
 from PWM_Wrapper import *
+from UPS_Messages import *
 import time
 import Parameters
+
 # Pin 22 (BCM 25)
 # Ground
 #PWM.PWM_Setup()

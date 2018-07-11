@@ -9,6 +9,7 @@
 #
 ######################################################
 from PWM_Wrapper import *
+from UPS_Messages import *
 import Parameters
 
 # Pin 22 (BCM 25)
@@ -21,7 +22,7 @@ def Transfer_Switch(Relay_State):
     elif Relay_State == 0:
         PWM.Digital_Write(Parameters.AC_DigitalPin,0) # Set grid power source
     else:
-        UPS_Error('Error_Transfer_Switch')
+        UPS_Messages('Error_Transfer_Switch')
     return 0
 
 def DC_Relay(Relay_State):
@@ -30,5 +31,5 @@ def DC_Relay(Relay_State):
     elif Relay_State ==0:
         PWM.Digital_Write(Parameters.DC_DigitalPin, 0)  # Set solar relay in open position
     else:
-        UPS_Error('Error_DC_Relay')
+        UPS_Messages('Error_DC_Relay')
     return 0

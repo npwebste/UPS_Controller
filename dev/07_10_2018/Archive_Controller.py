@@ -16,7 +16,8 @@ import zipfile
 import os
 from datetime import datetime
 import Parameters
-from UPS_Error import *
+from CSV_Manager import *
+from UPS_Messages import *
 
 def Archive_Controller_Main(arg):
 
@@ -29,20 +30,8 @@ def Archive_Controller_Main(arg):
         Archive_Sched.run()
 
 def Archive_Controller(arg):
-    try:
-        conn = sqlite3.connect('UPS_DB.db')
-        c = conn.cursor()
-        csvdata = c.execute("SELECT * from UPS_DB")
 
-    except:
-        UPS_Error('CSV Error')
-
-    with open('UPS_CSV.csv', 'w') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(
-            ['Column1', 'Column2', 'Column3', 'Column4', 'Column5', 'Column6', 'Column7', 'Column8', 'Column9'])
-        writer.writerows(csvdata)
-    csvfile.close()
+    CSV_Write()
 
     # Create archive directory for current time
     Current_time = datetime.now()
@@ -54,46 +43,26 @@ def Archive_Controller(arg):
     zf_name = f'{Current_time}_Archive'
     zf = zipfile.Zipfile(zf_name,'w')
 
-    # Write log to zip file
+    # Write files to zip archive and compress
     try:
         with zipfile.Zipfile(zf_name,'w') as zf:
-            zf.write('UPS_DB.sql', zipfile.ZIP_STORED)
-            zf.write('UPS_Error.log', zipfile.ZIP_STORED)
-            zf.write('UPS_DB.csv', zipfile.ZIP_STORED)
+            zf.write('UPS_DB.sql', zipfile.ZIP_STORED)# Write sql database to zip file
+            zf.write('UPS_Messages.log', zipfile.ZIP_STORED)# Write log to zip file
+            zf.write('UPS_DB.csv', zipfile.ZIP_STORED)# Write csv file to zip file
+
     except:
-        UPS_Error('Arhive Error')
+        UPS_Messages('Error Archive')
 
     try:
-        os.remove('UPS_Error.log')
-        os.remove('UPS_DB.csv')
+        os.remove('UPS_Messages.log')# Delete log file
+        os.remove('UPS_DB.csv')# Delete csv file
 
-        c.execute('DELETE FROM UPS_DB WHERE ')
-
-        conn.close()
+        try:
+            conn = sqlite3.connect('UPS_DB.db')
+            c = conn.cursor()
+            c.execute("DELETE FROM UPS_DB WHERE Date <= date('now','-1 day')")# Delete sql database older than one week
+            conn.close()
+        except:
+            f
     except:
-        UPS_Error('Archive Delete'
-
-
-    # Write sql database to zip file
-
-    # Write csv file to zip file
-
-    # Delete log file
-
-    # Delete sql database older than one week
-
-    # Delete csv file
-
-
-    Currenttime = datetime.now()
-    try:
-        conn = sqlite3.connect('UPS_DB.db')
-        c = conn.cursor()
-        c.execute("INSERT INTO UPS_DB(Date,Solar_Voltage, DC_Link_Voltage, VFD_Freq, VFD_Volt, VFD_Amps, VFD_Power, VFD_BusVolt, VFD_Temp) VALUES(?,?,?,?,?,?,?,?,?)",(Currenttime, Solar_Voltage,DC_Link_Voltage,VFD_Freq,VFD_Volt,VFD_Amps,VFD_Power,VFD_BusVolt,VFD_Temp))
-        conn.commit()
-
-    except Exception as e:
-        conn.rollback()
-        print("SQL write failed")
-        raise e
-    conn.close()
+        UPS_Messages('Error Archive Delete')

@@ -11,7 +11,7 @@
 # Import Libraries
 from ADS1256_definitions import *
 from pipyadc import ADS1256
-from UPS_Error import *
+from UPS_Messages import *
 
 # Define analog input positive and negative pairs
 EXT2, EXT3, EXT4 = POS_AIN2|NEG_AINCOM, POS_AIN3|NEG_AINCOM, POS_AIN4|NEG_AINCOM
@@ -32,6 +32,6 @@ def PWM_Measure_Voltage(Measurement):
         adsread = ads.read_oneshot(EXT4)
         DCVolts = adsread * ads.v_per_digit
     else:
-        UPS_Error('Error_Voltage_Measurement')
+        UPS_Messages('Error_Voltage_Measurement')
 
     return DCVolts
