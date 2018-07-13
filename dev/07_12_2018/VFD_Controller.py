@@ -30,9 +30,10 @@ logger.addHandler(fh)
 logger.addHandler(ch)
 
 
-Solar_Voltage_Old = 0
+VFD_Freq_Old = 0
 Solar_State = 0
 Grid_State = 0
+Pump_State = 0
 
 def VFD_Controller_Main(arg):
 
@@ -47,6 +48,10 @@ def VFD_Controller_Main(arg):
 def VFD_Controller(arg):
     global SCIP_Power
     global SCIP_Freq
+    global VFD_Freq_Old
+    global Solar_State
+    global Pump_State
+
     # Measure Solar voltage
 
     # Get DC link voltage measurement and calculate actual value
@@ -54,95 +59,43 @@ def VFD_Controller(arg):
     DC_Link_Actual_Volts = DC_Volts / Parameters.Voltage_Multiplier
     Solar_Voltage = DC_Link_Actual_Volts
 
-
-    if Solar_Voltage > Parameters.Solar_VDC_Min:
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(0))
-        if (Solar_Voltage_Old - Solar_Voltage) > 0:
-
-        elif (Solar_Voltage_Old - Solar_Voltage) < 0:
-            fh
-        else:
-            fh
-    else:
-
-
-    # Calculate solar power
-    
-    P_Solar = SCIP_Controller.Solar_Power
-
-    if (P_Solar > 500):
+    if (Solar_Voltage > Parameters.Solar_VDC_Min):
+        time.sleep(10)
         Transfer_Switch(1)
         time.sleep(.1)
-        if (P_Solar >= SCIP_Power):
-            P_VFD = SCIP_Power
+        if Pump_State == 0:
+            VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
+            Pump_State = 1
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(0))
+        if Solar_Voltage > Parameters.Solar_VDC_Min :
+            Freq_VFD = VFD_Freq_Old + 2
+        elif Solar_Voltage <= (Parameters.Solar_VDC_Min-10):
+            Freq_VFD = VFD_Freq_Old - 2
         else:
-            P_VFD = P_Solar
-        if ((P_VFD/Parameters.P_Solar_Max)*Parameters.Theta_Max)<=SCIP_Freq:
-            Freq_VFD = ((P_VFD/Parameters.P_Solar_Max)*Parameters.Theta_Max)
-        else:
-            Freq_VFD = SCIP_Freq
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
-        time.sleep(.1)
-        print("Freq_VFD=",Freq_VFD)
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD*100))
-    elif (P_Solar <= 500):
-        Transfer_Switch(0)
-        time.sleep(5)
-        if (P_Solar >= SCIP_Power):
-            P_VFD = SCIP_Power
-        else:
-            P_VFD = P_Solar
-        if ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max) <= SCIP_Freq:
-            Freq_VFD = ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max)
-        else:
-            Freq_VFD = SCIP_Freq
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
-        time.sleep(2)
-        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD*100))
+            logger.warning('Invalid solar voltage value')
+        if Freq_VFD > Parameters.Freq_Max:
+            Freq_VFD = Parameters.Freq_Max
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD * 100))
+        Solar_State = 1
+    elif Solar_Voltage < Parameters.Solar_VDC_Min:
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 0)
+        time.sleep(10)
+        Solar_State = 0
+        Pump_State = 0
     else:
-        logger.error('Invalid power setting')\
-
-    Solar_Voltage_Old = Solar_Voltage
-    Solar_State =
-    Grid_State =
+        logger.error('Error setting solar VFD power')
 
 
-        # Measure Solar voltage
-
-        # Measure solar current
-
-        # Calculate solar power
-
-        P_Solar = SCIP_Controller.Solar_Power
-
-        if (P_Solar > 500):
-            Transfer_Switch(1)
-            time.sleep(.1)
-            if (P_Solar >= SCIP_Power):
-                P_VFD = SCIP_Power
-            else:
-                P_VFD = P_Solar
-            if ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max) <= SCIP_Freq:
-                Freq_VFD = ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max)
-            else:
-                Freq_VFD = SCIP_Freq
+    if Solar_State == 0:
+        Transfer_Switch(0)
+        time.sleep(.1)
+        Freq_VFD = Parameters.Freq_Max
+        if Pump_State == 0:
             VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
-            time.sleep(.1)
-            print("Freq_VFD=", Freq_VFD)
-            VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD * 100))
-        elif (P_Solar <= 500):
-            Transfer_Switch(0)
-            time.sleep(5)
-            if (P_Solar >= SCIP_Power):
-                P_VFD = SCIP_Power
-            else:
-                P_VFD = P_Solar
-            if ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max) <= SCIP_Freq:
-                Freq_VFD = ((P_VFD / Parameters.P_Solar_Max) * Parameters.Theta_Max)
-            else:
-                Freq_VFD = SCIP_Freq
-            VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
-            time.sleep(2)
-            VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD * 100))
-        else:
+            Pump_State = 1
+        time.sleep(2)
+        VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Set"), int(Freq_VFD * 100))
+    else:
+        logger.error('Error setting grid VFD power')
+
+    VFD_Freq_Old = VFD_Freq

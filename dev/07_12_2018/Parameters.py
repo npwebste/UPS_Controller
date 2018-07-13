@@ -21,7 +21,7 @@ global Archive_Controller_Interval
 
 PWM_Controller_Interval = .5
 Protection_Controller_Interval = 5
-VFD_Controller_Interval = 15
+VFD_Controller_Interval = 10
 SCIP_Controller_Interval = 60
 SQL_Database_Controller_Interval = 5
 Archive_Controller_Interval = 3600
@@ -30,11 +30,11 @@ Archive_Controller_Interval = 3600
 global P_Min_Percent
 global Theta_Max
 P_Min_Percent = .5
-Theta_Max = 60
+Freq_Max = 45
 
 # Solar
 global P_Solar
-P_Solar_Max = 1800
+P_Solar_Max = 1500
 
 # Voltage Control
 global DCLink_VDC_Max
@@ -48,7 +48,7 @@ global D_Max
 DCLink_VDC_Max = 350
 DCLink_VDC_Min = 300
 Solar_VDC_Max = 275
-Solar_VDC_Min = 175
+Solar_VDC_Min = 180
 Solar_Nominal = 217.08
 Voltage_Multiplier = .003330781
 D_Min = .5
