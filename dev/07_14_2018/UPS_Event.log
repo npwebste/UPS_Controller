@@ -1,0 +1,444 @@
+2018-07-13 19:06:30,983 - Initialization - INFO - UPS initialization beginning
+2018-07-13 19:06:32,354 - Initialization - INFO - SQL Database Created
+2018-07-13 19:06:32,357 - Initialization - INFO - SQL Database Closed
+2018-07-13 19:06:32,358 - Initialization - INFO - UPS initialization complete
+2018-07-13 19:06:33,201 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:38,615 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:39,118 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:39,883 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:40,723 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:41,562 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:42,401 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:43,240 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:44,079 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:44,918 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:45,757 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:46,679 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:47,581 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:47,980 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:48,420 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:48,483 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:49,260 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:50,099 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:50,938 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:51,777 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:52,617 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:53,463 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:54,114 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:06:54,302 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:55,141 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:55,981 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:56,725 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:57,357 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:57,564 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:06:57,860 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:06:58,403 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:05,087 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:05,930 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:06,666 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:06,771 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:07,170 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:07,611 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:08,450 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:09,289 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:10,128 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:10,966 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:11,863 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:12,702 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:13,542 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:14,384 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:15,224 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:15,373 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:07:16,033 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:16,066 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:16,536 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:16,917 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:17,757 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:18,597 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:19,436 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:20,275 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:21,114 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:21,953 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:22,792 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:23,631 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:24,470 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:25,309 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:25,395 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:25,899 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:26,149 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:26,989 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:27,828 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:28,667 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:29,506 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:30,344 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:31,183 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:32,021 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:32,860 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:33,699 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:34,562 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:34,757 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:35,260 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:35,403 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:36,243 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:36,631 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:07:37,083 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:37,923 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:38,763 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:39,602 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:40,443 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:41,282 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:42,121 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:42,961 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:43,754 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:44,087 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:44,590 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:44,593 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:45,432 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:46,270 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:47,109 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:47,948 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:48,786 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:49,625 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:50,464 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:51,303 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:52,141 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:53,355 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:53,454 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:53,957 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:07:54,247 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:55,087 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:55,926 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:56,765 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:57,605 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:58,444 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:07:59,283 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:00,123 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:00,962 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:01,802 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:02,721 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:03,020 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:03,523 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:03,562 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:04,401 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:05,241 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:06,080 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:06,918 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:07,757 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:08,595 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:09,434 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:10,273 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:11,146 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:11,989 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:12,388 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:12,891 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:18,671 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:19,510 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:20,348 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:21,191 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:21,649 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:08:21,798 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:22,031 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:22,303 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:22,871 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:23,710 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:24,550 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:25,389 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:26,228 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:27,067 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:27,971 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:28,811 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:29,649 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:30,593 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:31,200 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:31,433 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:31,703 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:32,272 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:33,111 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:33,950 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:34,789 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:35,628 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:36,467 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:37,307 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:38,146 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:38,986 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:39,825 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:40,634 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:40,665 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:41,137 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:41,506 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:42,345 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:43,184 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:44,024 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:44,864 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:45,703 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:46,542 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:47,382 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:48,221 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:49,060 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:49,900 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:49,995 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:50,498 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:50,739 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:51,578 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:52,427 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:53,267 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:54,106 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:54,945 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:55,861 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:56,701 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:57,540 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:58,379 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:59,261 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:08:59,357 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:08:59,860 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:00,100 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:01,100 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:01,939 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:02,778 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:03,617 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:04,456 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:05,296 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:06,135 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:06,973 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:07,812 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:08,651 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:08,719 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:09,222 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:10,163 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:11,008 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:11,848 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:12,691 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:13,530 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:14,369 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:15,209 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:16,048 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:16,889 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:18,692 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:18,727 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:19,241 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:19,560 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:20,399 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:21,239 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:22,080 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:22,919 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:23,758 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:24,597 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:25,437 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:26,276 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:27,130 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:28,005 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:28,100 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:28,603 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:28,844 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:29,682 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:30,521 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:31,360 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:32,200 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:33,040 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:33,878 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:34,718 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:35,824 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:36,667 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:37,402 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:37,507 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:37,905 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:38,346 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:39,184 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:40,023 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:40,862 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:41,701 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:42,540 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:43,387 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:44,492 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:45,332 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:46,175 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:46,781 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:47,014 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:47,852 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:48,692 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:49,532 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:50,371 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:51,210 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:52,049 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:52,923 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:53,763 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:54,601 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:55,444 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:55,640 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:56,143 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:09:56,289 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:57,128 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:57,967 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:58,806 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:09:59,644 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:00,486 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:01,388 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:02,228 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:03,068 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:03,909 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:04,807 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:05,003 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:05,505 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:05,648 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:06,487 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:07,326 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:08,165 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:09,004 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:09,851 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:10,690 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:11,528 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:12,368 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:13,207 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:14,001 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:14,400 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:14,840 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:14,903 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:15,678 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:16,517 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:17,356 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:17,955 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:10:18,210 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:19,049 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:19,887 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:20,726 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:21,565 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:22,404 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:23,546 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:24,153 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:24,386 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:24,656 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:25,225 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:26,070 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:27,179 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:28,018 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:28,860 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:29,701 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:30,540 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:31,379 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:32,219 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:33,350 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:33,719 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:34,190 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:34,222 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:35,280 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:36,118 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:36,957 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:37,796 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:38,635 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:39,235 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:10:39,474 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:40,313 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:41,152 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:41,991 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:42,885 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:43,082 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:43,584 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:43,803 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:44,642 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:45,481 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:46,319 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:47,159 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:47,999 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:48,838 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:49,620 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:50,459 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:51,299 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:52,538 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:52,734 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:53,237 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:10:53,378 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:54,217 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:55,056 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:55,895 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:56,737 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:57,576 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:58,416 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:10:59,255 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:00,094 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:00,934 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:02,402 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:02,403 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:02,907 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:03,242 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:04,081 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:04,920 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:05,760 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:06,599 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:07,438 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:08,276 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:09,194 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:10,033 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:10,872 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:11,711 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:11,780 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:12,282 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:12,551 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:14,043 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:14,883 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:15,722 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:16,562 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:17,682 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:18,521 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:19,360 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:20,199 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:21,042 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:21,138 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:21,640 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:21,881 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:22,720 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:23,559 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:24,398 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:25,237 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:26,342 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:27,181 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:28,020 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:28,859 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:29,698 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:30,508 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:30,537 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:31,011 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:31,380 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:32,220 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:33,059 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:33,899 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:34,780 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:35,620 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:36,459 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:37,301 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:38,140 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:38,980 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:39,821 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:39,888 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:40,660 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:41,499 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:42,338 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:43,247 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:44,086 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:44,925 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:45,764 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:46,602 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:47,441 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:48,009 - VFD_Controller - ERROR - Error setting grid VFD power
+2018-07-13 19:11:48,650 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:49,151 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:49,490 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:49,654 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:50,329 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:51,469 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:52,377 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:53,216 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:54,054 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:54,893 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:55,731 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:56,570 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:57,409 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:58,512 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:58,620 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:11:59,015 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-13 19:11:59,459 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:00,233 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:01,073 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:01,913 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:02,753 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:03,592 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-13 19:12:04,431 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
