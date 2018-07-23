@@ -10,6 +10,6 @@
 
 5)Modify /boot/config.txt for HDMI scren
 
-6)
+6)Add auto script loading service
 
 7)
