@@ -1,3 +1,5 @@
+# ©2018 The Arizona Board of Regents for and on behalf of Arizona State University and the Laboratory for Energy And Power Solutions, All Rights Reserved.
+#
 # Universal Power System Controller
 # USAID Middle East Water Security Initiative
 #
@@ -33,7 +35,6 @@ logger.addHandler(fh)
 logger.addHandler(ch)
 
 def SQL_Database_Controller_Main(arg):
-
     # Setup SQL scheduler
     SQL_Sched = sched.scheduler(time.time, time.sleep)
 
@@ -53,7 +54,7 @@ def SQL_Database_Controller(arg):
     VFD_BusVolt = VFD.VFDRead(reg.get("ReadFunc", {}).get("Bus_Voltage"))
     VFD_Temp = VFD.VFDRead(reg.get("ReadFunc", {}).get("Temperature"))
 
-    if VFD_Controller.Solar_State ==1:
+    if VFD_Controller.Solar_State == 1:
         Solar_Power = VFD_Power
         Grid_Power = 0
     elif VFD_Controller.Grid_State == 1:

@@ -1,3 +1,5 @@
+©2018 The Arizona Board of Regents for and on behalf of Arizona State University and the Laboratory for Energy And Power Solutions, All Rights Reserved.
+
 Universal Power System Controller Code
 
 Developed by:Nathan Webster

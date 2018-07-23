@@ -1,3 +1,5 @@
+©2018 The Arizona Board of Regents for and on behalf of Arizona State University and the Laboratory for Energy And Power Solutions, All Rights Reserved.
+
 1)Install wiringpi2 
 
 2)Install libmodbus
@@ -8,6 +10,6 @@
 
 5)Modify /boot/config.txt for HDMI scren
 
-6)Modify /etc/rc.local for script auto loading
+6)
 
-7)Add /etc/init/respawn.conf
+7)

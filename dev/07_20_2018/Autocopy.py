@@ -1,3 +1,5 @@
+# ©2018 The Arizona Board of Regents for and on behalf of Arizona State University and the Laboratory for Energy And Power Solutions, All Rights Reserved.
+#
 # Universal Power System Controller
 # USAID Middle East Water Security Initiative
 #
@@ -14,8 +16,8 @@ import shutil
 import datetime
 import csv
 import os
-from CSV_Manager import *
 import logging
+from Archive_Controller import *
 
 # Setup event logging
 logger = logging.getLogger(__name__)
@@ -28,13 +30,12 @@ ch.setFormatter(formatter)
 logger.addHandler(fh)
 logger.addHandler(ch)
 
-CSV_Write()
+Archive_Controller()
 
-source = "/home/pi/datalogger/UPS_CSV.csv"
+source = "/home/pi/datalogger/Archive"
 
 #destination = "/home/pi/datalogger/tmp/UPS_Export_%s.csv" % datetime.datetime.now().date()
-destination = "/media/USB20FD/UPS_Export_%s.csv" % datetime.datetime.now().date()
-print(destination)
+destination = "/media/USB20FD/UPS_Export_%s" % datetime.datetime.now().date()
 try:
 	shutil.copy2(source,destination)
 	logger.info('Data archive successfully transferred to USB')
