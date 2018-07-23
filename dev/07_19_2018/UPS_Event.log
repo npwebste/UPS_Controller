@@ -1,0 +1,1842 @@
+2018-07-17 07:39:57,025 - Initialization - INFO - UPS initialization beginning
+2018-07-17 07:39:57,465 - Initialization - INFO - SQL Database Created
+2018-07-17 07:39:57,467 - Initialization - INFO - SQL Database Closed
+2018-07-17 07:39:57,469 - Initialization - INFO - UPS initialization complete
+2018-07-17 07:40:02,529 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:02,641 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:08,328 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:08,360 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:13,601 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:13,633 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:18,872 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:18,904 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:24,144 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:24,176 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:29,401 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:40:29,903 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:30:32,754 - Initialization - INFO - UPS initialization beginning
+2018-07-17 07:30:34,111 - Initialization - INFO - SQL Database Already Created
+2018-07-17 07:30:34,113 - Initialization - INFO - SQL Database Closed
+2018-07-17 07:30:34,114 - Initialization - INFO - UPS initialization complete
+2018-07-17 07:31:09,889 - Initialization - INFO - UPS initialization beginning
+2018-07-17 07:31:11,244 - Initialization - INFO - SQL Database Already Created
+2018-07-17 07:31:11,246 - Initialization - INFO - SQL Database Closed
+2018-07-17 07:31:11,247 - Initialization - INFO - UPS initialization complete
+2018-07-17 07:31:16,768 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:17,270 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:25,793 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:26,296 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:34,818 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:35,321 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 07:31:39,187 - Initialization - INFO - UPS initialization beginning
+2018-07-17 07:31:40,542 - Initialization - INFO - SQL Database Already Created
+2018-07-17 07:31:40,544 - Initialization - INFO - SQL Database Closed
+2018-07-17 07:31:40,549 - Initialization - INFO - UPS initialization complete
+2018-07-17 07:36:45,131 - Initialization - INFO - UPS initialization beginning
+2018-07-17 07:36:46,484 - Initialization - INFO - SQL Database Already Created
+2018-07-17 07:36:46,486 - Initialization - INFO - SQL Database Closed
+2018-07-17 07:36:46,488 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:59:39,468 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:59:40,822 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:59:40,825 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:59:40,826 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:01:05,748 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:01:07,103 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:01:07,105 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:01:07,106 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:01:40,664 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:01:42,017 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:01:42,019 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:01:42,020 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:03:01,013 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:03:02,369 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:03:02,371 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:03:02,372 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:03:22,720 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:03:24,073 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:03:24,075 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:03:24,076 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:03:41,694 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:03:43,047 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:03:43,049 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:03:43,051 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:08:22,974 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:08:24,328 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:08:24,330 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:08:24,331 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:09:28,463 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:09:29,819 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:09:29,821 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:09:29,822 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:12:35,852 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:12:37,207 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:12:37,210 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:12:37,211 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:12:42,731 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:12:43,234 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:12:51,756 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:12:52,293 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:00,815 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:01,318 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:09,841 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:10,344 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:18,864 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:19,367 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:27,889 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:28,392 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:36,915 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 09:13:37,418 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 08:47:25,165 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:47:26,588 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:47:26,590 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:47:26,591 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:50:11,661 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:50:13,988 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:50:13,989 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:50:13,990 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:51:09,069 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:51:10,450 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:51:10,452 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:51:10,454 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:52:41,979 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:52:43,395 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:52:43,397 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:52:43,398 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:55:36,719 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:55:38,271 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:55:38,273 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:55:38,274 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:57:42,100 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:57:43,111 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:57:43,113 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:57:43,114 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:47:37,715 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:47:38,729 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:47:38,731 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:47:38,732 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:55:24,600 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:55:25,610 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:55:25,613 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:55:25,614 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:55:56,301 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:55:57,314 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:55:57,316 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:55:57,317 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:56:44,500 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:56:45,512 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:56:45,513 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:56:45,515 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:57:26,741 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:57:27,753 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:57:27,755 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:57:27,763 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:57:46,746 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:57:47,757 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:57:47,759 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:57:47,760 - Initialization - INFO - UPS initialization complete
+2018-07-17 09:01:16,632 - Initialization - INFO - UPS initialization beginning
+2018-07-17 09:01:17,644 - Initialization - INFO - SQL Database Already Created
+2018-07-17 09:01:17,645 - Initialization - INFO - SQL Database Closed
+2018-07-17 09:01:17,646 - Initialization - INFO - UPS initialization complete
+2018-07-17 08:54:52,198 - Initialization - INFO - UPS initialization beginning
+2018-07-17 08:54:53,215 - Initialization - INFO - SQL Database Already Created
+2018-07-17 08:54:53,216 - Initialization - INFO - SQL Database Closed
+2018-07-17 08:54:53,217 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:22:13,640 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:22:13,714 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:22:13,716 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:22:13,718 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:22:19,271 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:19,344 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:25,081 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:25,114 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:30,353 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:30,385 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:35,626 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:22:35,658 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:23:48,663 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:23:48,728 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:23:48,730 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:23:48,731 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:23:53,786 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:23:53,819 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:23:59,043 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:23:59,059 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:24:05,003 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:01,316 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:25:01,379 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:25:01,381 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:25:01,383 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:25:06,439 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:06,470 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:11,680 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:11,759 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:17,527 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:17,560 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:22,799 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:25:22,833 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:07,677 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:27:07,751 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:27:07,753 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:27:07,755 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:27:12,810 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:13,342 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:19,567 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:19,600 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:25,830 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:25,862 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:31,587 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:27:32,130 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:31:58,427 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:31:58,490 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:31:58,492 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:31:58,493 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:32:03,535 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:03,726 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:09,078 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:09,111 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:09,142 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 14:32:14,351 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:14,383 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:19,623 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:19,655 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:21,875 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 14:32:24,896 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:24,928 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:30,167 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:30,199 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:32:55,715 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:32:55,784 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:32:55,787 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:32:55,788 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:33:00,827 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:33:00,843 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:33:06,371 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 14:33:06,515 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:33:06,553 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:34:35,238 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:34:35,304 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:34:35,307 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:34:35,309 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:37:42,402 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:37:42,473 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:37:42,475 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:37:42,477 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:38:04,515 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:38:04,578 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:38:04,580 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:38:04,581 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:39:51,993 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:39:52,069 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:39:52,071 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:39:52,072 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:41:53,673 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:41:53,736 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:41:53,738 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:41:53,739 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:45:29,161 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:45:29,234 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:45:29,237 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:45:29,238 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:48:10,479 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:48:10,558 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:48:10,560 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:48:10,561 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:50:07,940 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:50:08,004 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:50:08,006 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:50:08,008 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:54:26,079 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:54:26,156 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:54:26,158 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:54:26,159 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:54:58,358 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:54:58,429 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:54:58,431 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:54:58,433 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:55:03,504 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:55:04,019 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:55:09,015 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 14:55:10,203 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:55:10,230 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 14:57:15,422 - Initialization - INFO - UPS initialization beginning
+2018-07-17 14:57:15,488 - Initialization - INFO - SQL Database Already Created
+2018-07-17 14:57:15,490 - Initialization - INFO - SQL Database Closed
+2018-07-17 14:57:15,492 - Initialization - INFO - UPS initialization complete
+2018-07-17 14:57:26,074 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 14:57:38,824 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:00:33,252 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:00:33,339 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:00:33,342 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:00:33,344 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:00:43,940 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:00:56,690 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:02:19,896 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:02:19,963 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:02:19,966 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:02:19,968 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:02:30,550 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:02:43,764 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:05:31,853 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:05:31,929 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:05:31,932 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:05:31,934 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:05:37,339 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:05:42,849 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:06:13,478 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:06:13,555 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:06:13,557 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:06:13,559 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:06:24,151 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:06:35,753 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:07:14,695 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:07:14,768 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:07:14,770 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:07:14,771 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:07:25,354 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:07:53,238 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:07:53,313 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:07:53,315 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:07:53,317 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:08:06,572 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:08:06,635 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:08:06,636 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:08:06,638 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:08:17,224 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:08:29,125 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:08:39,846 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:08:50,774 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:09:01,479 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:09:12,184 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:13:22,989 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:13:33,695 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:13:54,770 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 15:13:55,745 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:13:55,776 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:01,017 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:01,049 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:06,288 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:06,322 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:11,561 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:11,593 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:14:26,178 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:14:37,105 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:14:47,810 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:18:58,598 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:19:09,310 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:19:20,016 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:19:33,084 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:19:43,789 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:19:54,509 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:20:05,212 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:24:15,988 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:24:26,706 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:24:37,410 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:24:48,116 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:25:00,326 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:25:11,059 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:25:21,794 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:29:28,924 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:29:28,997 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:29:29,000 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:29:29,003 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:29:39,599 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:29:50,273 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:30:00,977 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:30:12,167 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:30:22,866 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:30:33,571 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:31:31,834 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:31:31,899 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:31:31,901 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:31:31,903 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:31:42,486 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:31:54,388 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:32:05,095 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:32:15,831 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:32:26,536 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:32:37,240 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:34:03,673 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:34:03,752 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:34:03,755 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:34:03,757 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:34:14,339 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:34:26,354 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:34:37,059 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:34:58,197 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 15:35:01,312 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:01,354 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:06,601 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:06,633 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:11,874 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:11,907 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:17,146 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:17,179 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 15:35:30,792 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:38:38,391 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:38:38,467 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:38:38,469 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:38:38,471 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:38:49,053 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:38:59,742 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:39:10,462 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:39:21,649 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:39:32,383 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:39:43,104 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:42:20,526 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:42:20,605 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:42:20,607 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:42:20,608 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:42:26,015 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:42:31,543 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:42:42,808 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:42:53,496 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:07,763 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:43:07,830 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:43:07,833 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:43:07,835 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:43:18,434 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:30,736 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:41,441 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:52,146 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:02,851 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:13,557 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:24,359 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:35,196 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:45,909 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:56,837 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:07,556 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:18,293 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:28,998 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:39,718 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:51:22,848 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:51:22,915 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:51:22,917 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:51:22,919 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:51:33,501 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:51:44,780 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:51:55,500 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:52:06,205 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:52:30,741 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:52:30,818 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:52:30,821 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:52:30,822 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:52:43,219 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:52:43,294 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:52:43,297 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:52:43,298 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:52:53,958 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:07,155 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:17,860 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:28,566 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:39,286 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:49,990 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:30,790 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:41,502 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:24,647 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:55:24,724 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:55:24,726 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:55:24,728 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:55:36,116 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:46,911 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:57,632 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:56:08,368 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:56:19,249 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:00,032 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:10,808 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:21,528 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:32,457 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:43,177 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:23,933 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:34,719 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:46,465 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:57,169 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:09,185 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:19,892 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:40,517 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:59:40,593 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:59:40,595 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:59:40,597 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:59:51,178 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:01,867 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:12,571 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:24,255 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:36,093 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:47,749 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:01:29,937 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:28:52,704 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:28:53,721 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:28:53,723 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:28:53,724 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:34:49,153 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:34:50,165 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:34:50,167 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:34:50,173 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:34:57,321 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:34:58,336 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:34:58,338 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:34:58,339 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:35:15,474 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:35:16,488 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:35:16,490 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:35:16,491 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:38:30,039 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:38:49,726 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:38:50,739 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:38:50,740 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:38:50,742 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:40:16,434 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:40:17,446 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:40:17,448 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:40:17,449 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:44:55,992 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:44:57,008 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:44:57,010 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:44:57,012 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:46:35,406 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:46:36,420 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:46:36,422 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:46:36,423 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:49:01,613 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:49:02,633 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:49:02,635 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:49:02,636 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:49:39,688 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:49:40,700 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:49:40,702 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:49:40,703 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:50:22,772 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:50:23,784 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:50:23,786 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:50:23,787 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:50:51,339 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:50:52,351 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:50:52,353 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:50:52,354 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:51:41,712 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:51:42,729 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:51:42,731 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:51:42,732 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:54:12,393 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:54:13,406 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:54:13,408 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:54:13,409 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:55:08,878 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:55:09,890 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:55:09,892 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:55:09,893 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:55:20,215 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:55:23,265 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:56:14,609 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:56:15,622 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:56:15,623 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:56:15,624 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:56:25,948 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:56:29,000 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:56:32,050 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:56:35,135 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:56:38,185 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:03,837 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:06,888 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:09,939 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:12,988 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:16,038 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:19,087 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:22,143 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:57:25,193 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 15:59:46,869 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:59:47,883 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:59:47,891 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:59:47,893 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:59:58,951 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:12,800 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:20,897 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:00:25,877 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:39,155 - Initialization - INFO - UPS initialization beginning
+2018-07-17 16:03:40,168 - Initialization - INFO - SQL Database Already Created
+2018-07-17 16:03:40,170 - Initialization - INFO - SQL Database Closed
+2018-07-17 16:03:40,171 - Initialization - INFO - UPS initialization complete
+2018-07-17 16:03:51,229 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:05,063 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:16,720 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:28,581 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:05:10,771 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:05:20,919 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:05:25,835 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:06:19,214 - Initialization - INFO - UPS initialization beginning
+2018-07-17 16:06:20,227 - Initialization - INFO - SQL Database Already Created
+2018-07-17 16:06:20,229 - Initialization - INFO - SQL Database Closed
+2018-07-17 16:06:20,231 - Initialization - INFO - UPS initialization complete
+2018-07-17 16:06:31,280 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:06:37,831 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:40,884 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:43,943 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:46,996 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:50,048 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:53,099 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:55,579 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 16:06:56,151 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:06:59,201 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:02,251 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:05,304 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:07,818 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:07:09,877 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:12,927 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:15,977 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:19,027 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:22,078 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:25,130 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 16:07:28,510 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:10,700 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:23,360 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:35,023 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:47,603 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:59,269 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:09:41,479 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:09:54,423 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:10:06,080 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:30:07,890 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:40:07,980 - Initialization - INFO - UPS initialization beginning
+2018-07-17 15:40:08,996 - Initialization - INFO - SQL Database Already Created
+2018-07-17 15:40:08,997 - Initialization - INFO - SQL Database Closed
+2018-07-17 15:40:08,998 - Initialization - INFO - UPS initialization complete
+2018-07-17 15:40:20,056 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:40:32,263 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:40:43,919 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:40:55,639 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:41:36,895 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:41:47,670 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:41:58,390 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:42:09,110 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:42:20,852 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:02,130 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:13,064 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:23,769 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:34,521 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:45,209 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:43:55,817 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:07,671 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:18,376 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:31,476 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:42,181 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:44:54,052 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:04,757 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:15,430 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:26,149 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:36,854 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:48,883 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:45:59,603 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:10,514 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:21,234 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:33,137 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:43,842 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:52,853 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:46:54,546 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:46:58,093 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:03,334 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:05,251 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:47:08,573 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:13,814 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:15,955 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:47:19,054 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:24,295 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:47:26,675 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:47:29,536 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:48:07,444 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:18,234 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:28,938 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:39,642 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:48:50,362 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:01,098 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:12,280 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:49:53,081 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:03,871 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:14,591 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:25,771 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:26,640 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:31,880 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:36,481 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:37,121 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:42,362 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:47,188 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:47,603 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:52,844 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:50:57,892 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:50:58,579 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:51:03,822 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:51:09,061 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:51:14,302 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:51:19,543 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:51:38,661 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:51:49,422 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:52:00,127 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:52:10,846 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:52:21,549 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:02,332 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:13,106 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:23,825 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:34,529 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:45,249 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:53:55,953 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:06,641 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:12,504 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:17,361 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:17,745 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:22,985 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:27,985 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:28,720 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:33,961 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:38,689 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:54:39,201 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:44,440 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:49,712 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:54:54,953 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:00,192 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:05,432 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:10,672 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:15,913 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:19,551 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:21,154 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:26,395 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:30,325 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:31,636 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:36,876 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:41,125 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:42,117 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:47,355 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:51,830 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:55:52,596 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:55:57,837 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:03,077 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:04,595 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:56:08,317 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:13,558 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:18,799 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:24,040 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:29,279 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:34,520 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:39,762 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:45,001 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:45,362 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:56:50,242 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:55,482 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:56:57,320 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:00,722 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:57:05,964 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:57:08,025 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:11,204 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:57:16,445 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:57:21,029 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:57:31,734 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:13,733 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:24,507 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:35,210 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:45,948 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:58:55,438 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:58:57,163 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:00,679 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:05,919 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:07,884 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:11,160 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:16,399 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:18,587 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:21,639 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:26,880 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:29,292 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 15:59:32,121 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:37,361 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:42,602 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:47,842 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:53,083 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 15:59:58,322 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:03,563 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:08,805 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:10,060 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:14,046 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:19,285 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:20,834 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:24,525 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:29,766 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:31,539 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:35,007 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:40,247 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:42,260 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:45,487 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:50,728 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:00:52,963 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:00:55,967 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:01,207 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:06,447 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:11,687 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:16,927 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:22,168 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:27,408 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:32,649 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:33,746 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:01:37,889 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:43,130 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:44,519 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:01:48,370 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:53,609 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:01:55,223 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:01:58,849 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:04,089 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:05,927 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:02:09,330 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:14,570 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:16,630 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:02:19,811 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:25,050 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:30,290 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:35,531 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:40,771 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:46,012 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:51,253 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:02:57,397 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:06,942 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:08,172 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:12,182 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:17,423 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:18,876 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:22,664 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:27,905 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:29,582 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:33,143 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:38,383 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:40,300 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:43,623 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:48,863 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:51,004 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:03:54,104 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:03:59,343 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:04,584 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:09,825 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:15,066 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:20,306 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:25,547 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:30,787 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:31,764 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:36,028 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:41,268 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:42,562 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:46,508 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:51,750 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:04:53,267 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:04:56,991 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:02,231 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:03,972 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:05:07,472 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:12,712 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:14,677 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:05:17,954 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:23,195 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:28,434 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:33,674 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:38,915 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:05:44,157 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:08:47,701 - Initialization - INFO - UPS initialization beginning
+2018-07-17 16:08:47,790 - Initialization - INFO - SQL Database Already Created
+2018-07-17 16:08:47,792 - Initialization - INFO - SQL Database Closed
+2018-07-17 16:08:47,793 - Initialization - INFO - UPS initialization complete
+2018-07-17 16:08:58,377 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:08:59,257 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:04,496 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:09,145 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:09:09,737 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:14,977 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:19,865 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:09:20,217 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:25,458 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:30,568 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:09:30,825 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:36,066 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:41,807 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:52,746 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:09:57,986 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:03,227 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:08,467 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:12,153 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:10:13,707 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:18,948 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:22,926 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:10:24,189 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:29,428 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:33,630 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:10:34,669 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:39,909 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:44,335 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:10:45,150 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:50,390 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:55,919 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:10:56,399 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:11:01,158 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:06,398 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:11,639 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:16,880 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:22,121 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:27,360 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:32,601 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:37,620 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:11:43,305 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:48,545 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:48,896 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:11:53,786 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:11:59,026 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:01,119 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:12:04,267 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:09,506 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:11,823 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:12:14,746 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:19,987 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:22,543 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:12:25,227 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:30,467 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:35,707 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:40,947 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:46,188 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:51,428 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:12:56,668 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:01,909 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:03,325 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:13:07,149 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:12,390 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:14,003 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:13:17,629 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:22,869 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:24,707 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:13:28,110 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:33,350 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:35,412 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:13:38,592 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:43,832 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:46,132 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:13:49,073 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:54,313 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:13:59,552 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:04,792 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:10,033 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:15,274 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:20,514 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:25,757 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:26,915 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:14:30,995 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:36,235 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:37,704 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:14:41,475 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:46,715 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:48,408 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:14:51,956 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:57,196 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:14:59,113 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:15:02,436 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:07,675 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:09,817 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:15:12,916 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:18,156 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:23,396 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:28,637 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:33,878 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:39,604 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:15:50,584 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:15:55,752 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:00,991 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:02,173 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:16:06,231 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:11,472 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:12,878 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:16:16,712 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:21,953 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:24,174 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:16:27,194 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:32,434 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:34,894 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:16:37,674 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:42,914 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:48,155 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:53,395 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:16:58,636 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:03,877 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:09,117 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:14,358 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:16,845 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:17:19,598 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:24,839 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:27,619 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:17:30,078 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:35,321 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:38,324 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:17:40,560 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:45,800 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:49,043 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:17:51,041 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:56,282 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:17:59,749 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:18:01,522 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:18:06,763 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 16:18:40,532 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:18:53,382 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:19:05,040 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:19:16,697 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:19:28,354 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:20:10,542 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:20:23,236 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:20:36,853 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:20:48,510 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:21:00,189 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:21:42,348 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:21:55,009 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:22:06,667 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:22:18,324 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:22:29,981 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:23:12,114 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:23:24,848 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:23:36,505 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:23:49,192 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:24:00,848 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:24:43,061 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:24:56,905 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:25:08,561 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:25:20,427 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:25:32,084 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:26:15,866 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:26:28,525 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:26:41,210 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:26:52,867 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:27:16,607 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 16:27:17,556 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:27:18,059 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:27:26,582 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:27:27,085 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:27:58,193 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:28:10,852 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:28:22,509 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:28:34,165 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:28:57,997 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 16:29:03,821 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:29:04,324 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 16:29:39,583 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:29:51,764 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:30:03,420 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:30:15,077 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:30:26,909 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:31:09,098 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:31:21,757 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:31:32,962 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:31:44,618 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:31:56,268 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:32:38,456 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:32:51,116 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:33:02,772 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:33:16,431 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:33:28,088 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:34:10,299 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:34:22,586 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:34:34,243 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:34:45,899 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:34:57,556 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 16:35:39,744 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:06:36,459 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:06:37,477 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:06:37,479 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:06:37,480 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:06:48,538 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:07:03,126 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:07:13,847 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:07:22,527 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:07:22,603 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:07:22,605 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:07:22,607 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:07:33,199 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:08:12,905 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:08:12,978 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:08:12,980 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:08:12,982 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:08:23,562 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:08:36,804 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:15:02,583 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:15:02,661 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:15:02,663 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:15:02,664 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:15:13,248 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:15:25,443 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:15:36,173 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:15:41,338 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:15:41,411 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:15:41,413 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:15:41,414 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:15:52,006 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:16:02,774 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:16:13,494 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:16:24,199 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:16:36,038 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:16:46,744 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:17:07,900 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:17:11,830 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:11,862 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:17,101 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:17,133 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:22,372 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:22,405 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:27,645 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:27,678 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:17:40,507 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:17:52,521 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:03,240 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:13,929 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:24,649 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:35,353 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:46,569 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:18:57,274 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:07,994 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:18,699 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:31,002 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:41,722 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:52,427 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:20:03,133 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:20:14,323 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:20:25,038 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:05,836 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:16,819 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:28,019 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:39,257 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:49,972 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:00,739 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:11,459 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:22,068 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:32,789 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:43,494 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:22:54,199 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:23:04,903 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:23:15,623 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:23:17,844 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:23,083 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:26,342 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:23:28,323 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:33,564 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:37,062 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:23:38,804 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:44,045 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:49,286 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:54,526 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:23:59,767 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:05,008 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:10,248 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:15,489 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:17,830 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:24:20,728 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:25,970 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:28,606 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:24:31,210 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:36,452 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:39,312 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:24:41,693 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:46,932 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:24:50,031 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:25:00,736 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:25:41,504 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:25:52,276 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:02,997 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:13,718 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:24,423 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:25,925 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:31,165 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:35,128 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:36,406 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:41,644 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:45,863 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:46,885 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:52,126 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:26:56,567 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:26:57,367 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:02,607 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:07,848 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:08,599 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:27:13,088 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:18,328 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:23,568 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:28,809 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:34,050 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:39,289 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:44,530 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:49,380 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:27:49,770 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:27:55,011 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:00,251 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:00,602 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:28:05,491 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:10,732 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:11,322 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:28:15,971 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:21,211 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:22,042 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:28:26,452 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:31,693 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:32,747 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:28:36,933 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:42,173 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:47,414 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:52,654 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:28:57,895 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:03,136 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:08,377 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:13,519 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:29:13,617 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:18,856 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:24,096 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:24,304 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:29:29,336 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:34,575 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:35,022 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:29:39,816 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:45,057 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:45,727 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:29:50,296 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:55,537 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:29:56,447 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:30:00,778 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:06,016 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:11,256 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:16,497 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:21,738 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:26,978 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:32,219 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:37,211 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:30:42,668 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:47,908 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:48,005 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:30:53,149 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:58,390 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:30:58,708 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:31:03,630 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:08,870 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:09,429 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:31:14,111 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:19,350 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:20,134 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:31:24,591 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:29,831 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:35,071 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:40,312 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:45,550 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:50,791 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:31:56,032 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:00,901 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:01,257 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:06,497 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:12,205 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:17,440 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:22,680 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:22,935 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:27,920 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:33,159 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:33,639 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:38,400 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:43,640 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:44,359 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:48,881 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:54,121 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:32:59,360 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:04,602 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:09,842 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:15,082 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:20,323 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:25,127 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:33:25,563 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:30,803 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:35,883 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:33:41,252 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:46,492 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:33:46,492 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:51,731 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:56,716 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:33:57,467 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:02,708 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:07,435 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:34:07,947 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:13,187 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:18,428 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:23,669 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:28,910 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:34,150 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:39,390 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:44,631 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:34:49,354 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:34:49,871 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:00,126 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:35:05,559 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:10,799 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:10,879 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:35:16,039 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:21,280 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:21,600 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:35:26,521 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:31,761 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:32,319 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:35:37,000 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:42,242 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:47,481 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:52,722 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:57,962 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:03,202 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:08,443 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:13,581 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:36:13,716 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:18,955 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:24,196 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:25,857 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:36:29,436 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:34,677 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:36,578 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:36:39,917 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:45,158 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:47,298 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:36:50,397 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:55,638 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:36:58,003 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:37:00,878 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:37:06,118 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:37:11,359 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:37:16,599 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:50,336 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:50:51,348 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:50:51,349 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:50:51,350 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:51:02,412 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:51:15,844 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:51:27,501 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:51:39,148 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:52:21,331 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:52:33,991 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:52:45,648 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:52:57,367 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:53:09,023 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:53:34,569 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:37,623 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:40,676 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:43,730 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:46,783 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:49,832 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:51,211 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:53:52,881 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:55,930 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:58,978 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:02,027 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:05,286 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:08,334 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:11,383 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:14,432 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:15,525 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:54:17,058 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:17,481 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:20,530 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:22,298 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:23,579 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:26,310 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:54:26,691 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:27,539 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:32,589 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:32,812 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:37,860 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:37,893 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:39,074 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:44,124 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:44,156 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:44,380 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:46,394 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:49,443 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:52,491 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:55,540 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:58,589 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:03,106 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:55:40,143 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:43,192 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:45,295 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:55:46,241 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:49,290 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:52,339 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:55,392 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:59,910 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:56:07,867 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:12,850 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:56:20,005 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:23,057 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:25,537 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:56:27,745 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:30,797 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:33,849 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:37,403 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:56:44,959 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:48,012 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:51,142 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:54,194 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:57,245 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:00,298 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:03,349 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:06,401 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:09,453 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:12,506 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:15,558 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:18,610 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:19,555 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:57:21,662 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:24,714 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:27,765 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:30,817 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:32,424 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:57:33,863 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:36,914 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:39,966 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:43,017 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:44,029 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:57:46,148 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:49,199 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:52,251 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:56,716 - VFD_Controller - ERROR - Error setting solar VFD power
+                                                                                                                                                                                                                                                2018-07-17 17:19:13,537 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:19:13,619 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:19:13,622 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:19:13,623 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:19:19,416 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:24,209 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:24,657 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:29,897 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:35,477 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:41,335 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:46,575 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:46,686 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:19:51,816 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:57,056 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:19:57,390 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:20:02,295 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:07,535 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:12,777 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:18,017 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:38,175 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:20:50,348 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:02,004 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:05,710 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:08,760 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:11,810 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:13,566 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:15,001 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:18,051 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:21,101 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:24,151 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:25,163 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:21:27,280 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:30,329 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:33,380 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:30,215 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:26:31,227 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:26:31,229 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:26:31,230 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:27:59,428 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:28:00,440 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:28:00,443 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:28:00,444 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:28:11,505 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:31:19,803 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:31:20,814 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:31:20,816 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:31:20,817 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:31:31,878 - VFD_Controller - ERROR - Error setting solar VFD power
+2018-07-17 17:32:58,977 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:32:59,990 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:32:59,992 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:32:59,994 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:33:03,047 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:06,097 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:09,148 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:11,770 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:33:12,040 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:13,319 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:15,090 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:18,139 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:18,559 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:33:21,188 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:33:24,024 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:33:24,216 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:35:06,679 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:35:07,692 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:35:07,694 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:35:07,695 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:35:10,747 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:13,797 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:16,848 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:19,107 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:35:19,189 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:22,239 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:25,289 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:28,338 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:35:31,979 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:38:10,649 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:38:11,663 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:38:11,665 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:38:11,666 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:38:24,626 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:38:24,725 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:38:50,333 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:39:00,936 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:39:02,597 - Protection_Controller - WARNING - Solar voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:39:02,821 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:39:08,061 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:42:47,188 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:42:48,200 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:42:48,202 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:42:48,203 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:43:00,303 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:43:06,693 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:43:11,741 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:43:11,966 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:43:17,515 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:44:58,276 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:44:59,289 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:44:59,291 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:44:59,292 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:45:00,950 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:45:11,546 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:45:23,612 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:45:24,116 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:45:34,856 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:45:38,219 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:46:47,279 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:46:48,291 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:46:48,293 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:46:48,294 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:46:49,952 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:47:00,549 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:47:12,613 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:47:24,790 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:47:30,909 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:35,992 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:47:36,694 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:41,742 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:47:41,966 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:49:32,901 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:49:33,912 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:49:33,914 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:49:33,915 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:49:35,574 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:49:41,041 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:49:42,053 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:49:42,055 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:49:42,056 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:49:53,789 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:49:54,290 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:50:07,161 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:51:10,294 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:51:11,306 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:51:11,308 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:51:11,309 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:51:12,967 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:51:22,343 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:51:47,953 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:51:48,965 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:51:48,967 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:51:48,968 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:52:01,056 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:52:13,724 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:52:19,884 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:52:59,796 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:53:00,809 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:53:00,811 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:53:00,812 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:53:02,470 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:53:13,217 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:53:56,376 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:53:57,388 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:53:57,390 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:53:57,391 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:54:15,294 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:54:16,306 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:54:16,308 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:54:16,309 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:54:17,968 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:24,631 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:54:27,372 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:55:06,836 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:55:07,848 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:55:07,850 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:55:07,851 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:55:09,510 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:55:18,809 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:55:32,504 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:55:43,962 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:55:55,313 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:07,500 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:56:09,813 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:56:21,188 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:56:36,723 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:56:36,793 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:56:36,795 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:56:36,795 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:56:47,851 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:56:50,860 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:56:55,691 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:56:56,704 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:56:56,706 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:56:56,708 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:57:19,708 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:57:20,721 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:57:20,723 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:57:20,724 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:57:22,384 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:57:31,682 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:19:45,106 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:19:46,122 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:19:46,124 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:19:46,125 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:19:58,412 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:20:04,594 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:09,835 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:15,076 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:20,317 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:25,557 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:30,798 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:41,908 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:20:44,060 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:49,298 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:54,539 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:20:59,779 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:21:05,021 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:21:10,262 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:21:15,501 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:21:44,812 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:21:56,347 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:21:57,669 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:22:56,294 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:22:57,309 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:22:57,311 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:22:57,312 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:22:58,970 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:06,241 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:08,372 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:23:13,512 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:22,933 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:23,033 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:23:30,504 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:34,690 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:23:37,775 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:45,046 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:46,370 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:23:52,527 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:23:59,798 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:07,069 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:14,341 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:21,611 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:28,558 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:24:28,882 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:36,153 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:41,217 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:24:43,424 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:50,694 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:24:52,874 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:24:57,965 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:04,530 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:25:05,254 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:12,525 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:16,187 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:25:19,796 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:27,277 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:34,488 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:41,759 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:49,029 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:56,300 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:25:58,312 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:26:03,571 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:10,942 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:26:11,018 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:18,289 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:22,599 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:26:25,560 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:32,830 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:33,847 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:26:40,003 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:45,503 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:26:47,273 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:26:54,544 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:01,815 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:09,085 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:16,356 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:23,627 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:27,691 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:27:30,897 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:38,168 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:40,350 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:27:45,438 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:27:52,007 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:27:52,729 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:40:02,390 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:40:03,403 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:40:03,405 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:40:03,406 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:40:05,065 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:40:14,465 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:40:27,125 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:41:55,068 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:41:56,081 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:41:56,083 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:41:56,084 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:41:57,743 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:42:05,017 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:42:07,142 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:42:12,289 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:42:19,572 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:42:20,072 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:42:26,781 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:42:31,729 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 17:42:48,852 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 17:46:21,473 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:46:22,487 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:46:22,489 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:46:22,490 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:46:34,757 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:46:42,937 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:46:48,178 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:46:53,418 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:46:58,660 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:03,901 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:09,142 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:18,268 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:47:22,403 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:27,644 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:32,884 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:38,125 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:43,364 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:47:48,605 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:48:20,782 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:48:23,577 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:48:28,819 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:48:33,869 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:48:34,091 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:48:43,587 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:48:43,659 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:48:43,662 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:48:43,664 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:49:48,057 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:49:49,070 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:49:49,072 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:49:49,073 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:50:01,327 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:50:08,022 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:13,262 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:18,503 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:23,743 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:28,984 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:34,225 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:44,855 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:50:47,486 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:52,727 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:50:57,777 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:50:58,000 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:51:03,050 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:51:08,481 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:51:13,722 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:09,148 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:54:10,160 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:54:10,162 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:54:10,163 - Initialization - INFO - UPS initialization complete
+2018-07-17 17:54:22,416 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:54:33,169 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:54:45,536 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:45,758 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:50,808 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:54:51,031 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:54:56,271 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:55:01,512 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:55:16,930 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:55:21,963 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 17:55:59,669 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 17:56:00,452 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:56:05,691 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 17:56:18,345 - Initialization - INFO - UPS initialization beginning
+2018-07-17 17:56:18,420 - Initialization - INFO - SQL Database Already Created
+2018-07-17 17:56:18,422 - Initialization - INFO - SQL Database Closed
+2018-07-17 17:56:18,424 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:00:03,050 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:00:04,062 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:00:04,064 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:00:04,065 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:00:05,723 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:00:14,913 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:00:20,185 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:25,425 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:25,665 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:00:30,667 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:35,907 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:36,419 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:00:41,148 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:46,389 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:47,188 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:00:51,629 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:56,868 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:00:57,689 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:01:02,109 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:07,350 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:12,590 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:17,830 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:23,071 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:27,868 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 18:01:28,312 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:33,552 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:38,793 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:01:39,959 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 18:02:09,125 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:02:10,137 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:02:10,138 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:02:10,139 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:02:11,798 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:02:22,358 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:02:23,237 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
+2018-07-17 18:02:24,419 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:03:04,485 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:03:05,498 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:03:05,500 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:03:05,501 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:03:18,720 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:04:12,939 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:04:13,951 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:04:13,953 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:04:13,954 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:04:26,040 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:04:26,140 - VFD_Controller - ERROR - Setting to grid power, no solar available
+2018-07-17 18:04:33,913 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:04:38,622 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:04:39,635 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:04:39,637 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:04:39,638 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:04:52,840 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:05:58,042 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:05:59,054 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:05:59,056 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:05:59,058 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:06:00,716 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:06:12,118 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:06:13,131 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:06:13,133 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:06:13,134 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:06:18,917 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:24,030 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:06:24,652 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:29,893 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:34,782 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:06:35,132 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:40,373 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:46,050 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:06:50,790 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:56,030 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:06:56,782 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:07:01,270 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:07:06,511 - Protection_Controller - WARNING - VFD temperature set above maximum, shutting down motor
+2018-07-17 18:07:14,211 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:07:14,285 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:07:14,287 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:07:14,289 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:07:15,947 - PWM_Controller - WARNING - Solar voltage out of accecptable range, cannot turn on solar relay
+2018-07-17 18:09:16,963 - Initialization - INFO - UPS initialization beginning
+2018-07-17 18:09:17,976 - Initialization - INFO - SQL Database Already Created
+2018-07-17 18:09:17,978 - Initialization - INFO - SQL Database Closed
+2018-07-17 18:09:17,983 - Initialization - INFO - UPS initialization complete
+2018-07-17 18:09:30,208 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:09:40,991 - VFD_Controller - INFO - Solar power already enabled, will not enable grid
+2018-07-17 18:09:54,267 - Protection_Controller - WARNING - DC link voltage set above maximum, shutting down motor and opening solar relay
