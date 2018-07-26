@@ -41,6 +41,7 @@ def Archive_Controller_Main(arg):
         Archive_Sched.run()
 
 def Archive_Controller(arg):
+    cwd = os.getcwd()
 
     CSV_Write()
 
@@ -51,15 +52,20 @@ def Archive_Controller(arg):
         os.makedirs(directory)
 
     # Create archive
-    zf_name = str(Current_time)+'_Archive.zip'
-    zf = zipfile.ZipFile(zf_name,'w')
+    zf_name = directory+str(Current_time)+'_Archive.zip'
+    #zf = zipfile.ZipFile(zf_name,'w')
 
     # Write files to zip archive and compress
     try:
         with zipfile.zipFile(zf_name,'w') as zf:
-            zf.write('UPS_DB.sql', zipfile.ZIP_STORED)# Write sql database to zip file
-            zf.write('UPS_Messages.log', zipfile.ZIP_STORED)# Write log to zip file
-            zf.write('UPS_DB.csv', zipfile.ZIP_STORED)# Write csv file to zip file
+            for folder, subfolders, files in os.walk(cwd):
+                for file in files:
+                    if file.endswith('.log') or file.endswith('.db') or file.endswith('.csv'):
+                        zf.write(os.path.join(folder,file),directory , compress_type=zipfile.ZIP_DEFLATED)
+            #zf.write('UPS_DB.sql', zipfile.ZIP_STORED)# Write sql database to zip file
+            #zf.write('UPS_Messages.log', zipfile.ZIP_STORED)# Write log to zip file
+            #zf.write('UPS_DB.csv', zipfile.ZIP_STORED)# Write csv file to zip file
+        zf.close()
 
     except:
         logger.error('Could not write files to zip archive')

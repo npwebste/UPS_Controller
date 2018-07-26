@@ -43,5 +43,5 @@ def CSV_Write():
         conn.close()
         logger.info('CSV file successfully written')
     except:
-        logger.error('Could not read data from SQL database'
+        logger.error('Could not read data from SQL database')
 
