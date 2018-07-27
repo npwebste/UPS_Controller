@@ -6,7 +6,7 @@
 
 3)Install SCIP
 
-4)Create Datalogger directory and copy files into
+4)Create /home/pi/datalogger directory
 
 5)Modify /boot/config.txt for HDMI scren
 

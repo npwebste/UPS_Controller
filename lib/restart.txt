@@ -1,0 +1,8 @@
+/etc/systemd/system
+
+sudo systemctl daemon-reload
+
+sudo systemctl start restart.service
+sudo systemctl enable restart.service
+sudo systemctl status restart.service
+sudo systemctl stop restart.service
