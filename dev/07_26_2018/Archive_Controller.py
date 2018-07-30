@@ -52,7 +52,7 @@ def Archive_Controller(arg):
         os.makedirs(directory)
 
     # Create archive
-    zf_name = directory+str(Current_time.strftime('%y-%m-%d_%H:%M:%S'))+'_Archive.zip'
+    zf_name = directory+str(Current_time.strftime('%y-%m-%d_%H_%M_%S'))+'_Archive.zip'
 
     # Write files to zip archive and compress
     try:
