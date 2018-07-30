@@ -1,0 +1,7 @@
+KERNEL!="sd[a-z][0-9]", MODE="0777"
+SUBSYSTEM=="block"
+# Mount the device  
+ACTION=="add", RUN+="/bin/mount -o $env{mount_options} /dev/%k /media/%E{dir_name}"
+ACTION=="add", RUN+="sudo /usr/bin/sh home/pi/UPS_Controller-master/dev/07_26_2018/autocopy.sh"
+# Clean up after removal  
+ACTION=="remove", ENV{dir_name}!="", RUN+="/bin/umount -l /media/%E{dir_name}"

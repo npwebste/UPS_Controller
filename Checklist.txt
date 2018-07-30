@@ -1,15 +1,17 @@
 ©2018 The Arizona Board of Regents for and on behalf of Arizona State University and the Laboratory for Energy And Power Solutions, All Rights Reserved.
 
-1)Install wiringpi2 
+1)Install wiringpi2
 
-2)Install libmodbus
+2) Enable Raspberry SPI Interface, Menu, Preferences, Raspberry Pi Configuration, Interfaces, SPI -> Enable
 
-3)Install SCIP
+3)Install libmodbus
 
-4)Create /home/pi/datalogger directory
+4)Install SCIP
 
-5)Modify /boot/config.txt for HDMI scren
+5)Create /home/pi/datalogger directory
 
-6)Add auto script loading service
+6)Modify /boot/config.txt for HDMI scren
 
-7)
+7)Add auto script loading service
+
+8)
