@@ -8,7 +8,7 @@
 
 4)Install SCIP
 
-5)Create /home/pi/datalogger directory
+5)Create /home/pi/datalogger directory, disable File Explorer, preferences, Auto loading
 
 6)Modify /boot/config.txt for HDMI scren
 

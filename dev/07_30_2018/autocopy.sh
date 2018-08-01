@@ -12,9 +12,8 @@
 #
 ######################################################
 cd /
-cd /home/pi/UPS_Controller-master/dev/07_28_2018
-#mkdir /home/pi/datalogger
-sudo /usr/bin/python3 /home/pi/UPS_Controller-master/dev/07_28_2018/Autocopy.py
+cd /home/pi/UPS_Controller-master/src
+sudo /usr/bin/python3 /home/pi/UPS_Controller-master/src/Autocopy.py
 #umount /media/pi/USB20FD
 cd /
 exit
