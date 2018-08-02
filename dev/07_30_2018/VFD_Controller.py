@@ -120,7 +120,7 @@ def VFD_Controller(arg):
         Freq_VFD = Parameters.Grid_Freq_Max
         if Pump_State == 0:
             VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 3)
-            times.sleep(2)
+            time.sleep(2)
             VFD.VFDWrite(reg.get("WriteFunc", {}).get("Frequency_Acc"), int(500))
             VFD.VFDWrite(reg.get("WriteFunc", {}).get("Motor_Start_Stop"), 1)
             Pump_State = 1

@@ -8,10 +8,15 @@
 
 4)Install SCIP
 
-5)Create /home/pi/datalogger directory, disable File Explorer, preferences, Auto loading
+5)Create /home/pi/datalogger directory, disable File Explorer, preferences, Volume Management, disable Mount removable media
 
 6)Modify /boot/config.txt for HDMI scren
 
 7)Add auto script loading service
 
-8)
+8) Open terminal and enter 'sudo journalctl -f -u restart'
+
+/bin/sh home/pi/UPS_Controller-master/src/autocopy.sh
+
+pi
+RMF_321
